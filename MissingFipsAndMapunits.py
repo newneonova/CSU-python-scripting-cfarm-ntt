@@ -1,6 +1,6 @@
 import os
 
-SpinupTable=r'RawData\eqruns2017_spinup_sitefile_lookup.csv'
+SpinupTable=r'RawData\eqruns2017_spinup_sitefile_lookup_2017_08_30.csv'
 Fips=r'RawData\ListOfFips.txt'
 MapUnit=r'RawData\UserMapUnits.txt'
 
@@ -33,3 +33,5 @@ print('Mapunits not present:'+str(len(AbsentUnit))+' or '+str(len(AbsentUnit)/le
 print('writing missing map units and fips')
 open('RawData\MissingFips_'+str(len(AbsentFips))+'.txt','w').write('\n'.join(list(AbsentFips)))
 open('RawData\MissingMapUnits_'+str(len(AbsentUnit))+'.txt','w').write('\n'.join(list(AbsentUnit)))
+
+open(r'RawData\UniqueTotalMapUnits_'+str(len(ActualUnit))+'.txt','w').write('\n'.join(list(ActualUnit)))
