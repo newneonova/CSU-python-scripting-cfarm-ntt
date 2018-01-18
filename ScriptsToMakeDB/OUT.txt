@@ -1,0 +1,60 @@
+INSERT INTO cfarm.crop_apex(crop_lookup_id, apex_crop_id, apex_crop_category_id, planting_tractor_id, harvest_tractor_id)
+Values(218,31,22000,22102,22109);
+INSERT INTO cfarm.crop_apex(crop_lookup_id, apex_crop_id, apex_crop_category_id, planting_tractor_id, harvest_tractor_id)
+Values(221,15,22001,22101,22107);
+INSERT INTO cfarm.crop_apex(crop_lookup_id, apex_crop_id, apex_crop_category_id, planting_tractor_id, harvest_tractor_id)
+Values(226,32,22000,22102,22109);
+INSERT INTO cfarm.crop_apex(crop_lookup_id, apex_crop_id, apex_crop_category_id, planting_tractor_id, harvest_tractor_id)
+Values(258,29,22002,22100,22108);
+INSERT INTO cfarm.crop_apex(crop_lookup_id, apex_crop_id, apex_crop_category_id, planting_tractor_id, harvest_tractor_id)
+Values(222,2,22002,22100,22107);
+INSERT INTO cfarm.crop_apex(crop_lookup_id, apex_crop_id, apex_crop_category_id, planting_tractor_id, harvest_tractor_id)
+Values(227,4,22002,22100,22107);
+INSERT INTO cfarm.crop_apex(crop_lookup_id, apex_crop_id, apex_crop_category_id, planting_tractor_id, harvest_tractor_id)
+Values(228,93,22002,22100,22107);
+INSERT INTO cfarm.crop_apex(crop_lookup_id, apex_crop_id, apex_crop_category_id, planting_tractor_id, harvest_tractor_id)
+Values(210,37,22004,22102,22109);
+INSERT INTO cfarm.crop_apex(crop_lookup_id, apex_crop_id, apex_crop_category_id, planting_tractor_id, harvest_tractor_id)
+Values(253,33,22000,22102,22109);
+INSERT INTO cfarm.crop_apex(crop_lookup_id, apex_crop_id, apex_crop_category_id, planting_tractor_id, harvest_tractor_id)
+Values(232,79,22002,22100,22107);
+INSERT INTO cfarm.crop_apex(crop_lookup_id, apex_crop_id, apex_crop_category_id, planting_tractor_id, harvest_tractor_id)
+Values(236,17,22001,22101,22107);
+INSERT INTO cfarm.crop_apex(crop_lookup_id, apex_crop_id, apex_crop_category_id, planting_tractor_id, harvest_tractor_id)
+Values(242,6,22002,22100,22107);
+INSERT INTO cfarm.crop_apex(crop_lookup_id, apex_crop_id, apex_crop_category_id, planting_tractor_id, harvest_tractor_id)
+Values(238,65,22002,22100,22107);
+INSERT INTO cfarm.crop_apex(crop_lookup_id, apex_crop_id, apex_crop_category_id, planting_tractor_id, harvest_tractor_id)
+Values(243,51,22002,22104,22110);
+INSERT INTO cfarm.crop_apex(crop_lookup_id, apex_crop_id, apex_crop_category_id, planting_tractor_id, harvest_tractor_id)
+Values(244,18,22001,22105,22111);
+INSERT INTO cfarm.crop_apex(crop_lookup_id, apex_crop_id, apex_crop_category_id, planting_tractor_id, harvest_tractor_id)
+Values(256,18,22001,22101,22107);
+INSERT INTO cfarm.crop_apex(crop_lookup_id, apex_crop_id, apex_crop_category_id, planting_tractor_id, harvest_tractor_id)
+Values(264,19,22001,22101,22107);
+INSERT INTO cfarm.crop_apex(crop_lookup_id, apex_crop_id, apex_crop_category_id, planting_tractor_id, harvest_tractor_id)
+Values(246,30,22002,22100,22107);
+INSERT INTO cfarm.crop_apex(crop_lookup_id, apex_crop_id, apex_crop_category_id, planting_tractor_id, harvest_tractor_id)
+Values(250,1,22002,22100,22107);
+INSERT INTO cfarm.crop_apex(crop_lookup_id, apex_crop_id, apex_crop_category_id, planting_tractor_id, harvest_tractor_id)
+Values(247,62,22002,22100,22110);
+INSERT INTO cfarm.crop_apex(crop_lookup_id, apex_crop_id, apex_crop_category_id, planting_tractor_id, harvest_tractor_id)
+Values(223,77,22002,22100,22107);
+INSERT INTO cfarm.crop_apex(crop_lookup_id, apex_crop_id, apex_crop_category_id, planting_tractor_id, harvest_tractor_id)
+Values(248,7,22002,22100,22107);
+INSERT INTO cfarm.crop_apex(crop_lookup_id, apex_crop_id, apex_crop_category_id, planting_tractor_id, harvest_tractor_id)
+Values(299,92,22005,22102,22109);
+INSERT INTO cfarm.crop_apex(crop_lookup_id, apex_crop_id, apex_crop_category_id, planting_tractor_id, harvest_tractor_id)
+Values(251,76,22002,22100,22108);
+INSERT INTO cfarm.crop_apex(crop_lookup_id, apex_crop_id, apex_crop_category_id, planting_tractor_id, harvest_tractor_id)
+Values(249,11,22001,22101,22107);
+INSERT INTO cfarm.crop_apex(crop_lookup_id, apex_crop_id, apex_crop_category_id, planting_tractor_id, harvest_tractor_id)
+Values(252,10,22001,22101,22107);
+INSERT INTO cfarm.crop_apex(crop_lookup_id, apex_crop_id, apex_crop_category_id, planting_tractor_id, harvest_tractor_id)
+Values(213,90,22006,22103,22112);
+INSERT INTO cfarm.crop_apex(crop_lookup_id, apex_crop_id, apex_crop_category_id, planting_tractor_id, harvest_tractor_id)
+Values(216,90,22006,22103,22112);
+INSERT INTO cfarm.crop_apex(crop_lookup_id, apex_crop_id, apex_crop_category_id, planting_tractor_id, harvest_tractor_id)
+Values(257,90,22006,22103,22112);
+INSERT INTO cfarm.crop_apex(crop_lookup_id, apex_crop_id, apex_crop_category_id, planting_tractor_id, harvest_tractor_id)
+Values(231,73,22002,22104,22107);

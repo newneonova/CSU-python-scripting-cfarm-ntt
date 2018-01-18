@@ -1,0 +1,45 @@
+Crop_name_cfarm,,Land_use_for_LUN,JX6,Crop_name_APEX
+Alfalfa,,Close_seeded_legumes,31,ALFA
+Barley,,Small_Not_forage,15,CBAR
+Clover,,Close_seeded_legumes,32,CLVA
+Corn Silage,,Row_crops,29,CSIL
+Corn,,Row_crops,2,CORN
+Cotton,,Row_crops,4,COTS
+Dryland Beans,,Row_crops,93,DRYB
+Grass,,Pasture_or_range,37,SPAS
+Grass-Legume Mix,,Close_seeded_legumes,33,CLVR
+Millet,,Row_crops,79,PMIL
+Oats,,Small_Not_forage,17,COAT
+Peanut,,Row_crops,6,PNUT
+Peas,,Row_crops,65,PEAS
+Potato,,Row_crops,51,POTA
+Flooded Rice,,Small_Not_forage,18,RICE
+Upland Rice,,Small_Not_forage,18,RICE
+Rye,,Small_Not_forage,19,RYE
+Sorghum,,Row_crops,3,GRSG
+Sorghum,,Row_crops,30,SGHY
+Soybean,,Row_crops,1,SOYB
+Sugar Beets,,Row_crops,62,SGBT
+Sugar Cane,,Row_crops,77,SUGC
+Sunflower,,Row_crops,7,SUNF
+Switchgrass,,Meadow,92,SWCH
+Tobacco,,Row_crops,76,TOBC
+Tomatoes,,Row_crops,73,TOMA
+Spring Wheat,,Small_Not_forage,11,SWHT
+Winter Wheat,,Small_Not_forage,10,WWHT
+Riparian Buffer,,Woods,90,POPL
+Woodlot - Hardwoods,,Woods,90,POPL
+Windbreak 3 Row,,Woods,90,POPL
+CAnnual Rye - Legume - Radish,,Meadow,41,RYEG
+CAnnual Rye - Legume,,Meadow,41,RYEG
+CAnnual Rye,,Meadow,41,RYEG
+CCereal Rye,,Small_Not_forage,19,RYE
+CClover,,Meadow,33,CLVR
+CCorn,,Row_crops,29,CSIL
+CForage Radish,,Row_crops,60,CRRT
+CMillet,,Row_crops,79,PMIL
+COilseed Radish,,Row_crops,60,CRRT
+CWinter Grain-Other,,Small_Not_forage,19,RYE
+CSorghum,,Row_crops,30,SGHY
+CVetch,,Meadow,26,FPEA
+CWinter Wheat,,Small_Not_forage,10,WWHT

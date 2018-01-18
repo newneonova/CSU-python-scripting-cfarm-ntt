@@ -1,0 +1,43 @@
+Operation_cfarm,Crop,,IHC,Operation_category,type,JX4,Till_name
+planting,Corn Silage; Corn; Cotton;Dryland Beans; Millet; Peanut;Sorghum; Sorghum Silage; Soybean; Sugar Beets; Sunflower; Tobacco; Peas; Sugar Cane;,,5,Planter,rowcrop,668,PLANT30
+planting,Barley; Barley;Oats; Rye; Spring Wheat; Winter Wheat; Upland Rice;,,6,Planter,small grain,121,DRLLNT24
+planting,Alfalfa; Clover; Grass; Grass-Legume Mix; Switchgrass;,,6,Planter,hay,131,DRNOTMNT
+planting,Trees;Riparian Buffer;Woodlot - Hardwoods;Windbreak 3 Row;,,6,Planter,tree,134,DRPRDHOE
+planting,Potato; Tomatoes;,,5,Planter,other,124,PLPOTATO
+planting,Flooded Rice;,,5,Planter,transplanter,126,PLTRAN4R
+planting,Flooded Rice;,,15,Puddle,,424,PUDDLE
+harvest,Barley;  Corn; Cotton; Dryland Beans; Millet; Oats; OatsFall; Peanut;  Rye; Sorghum;  Soybean; Sunflower; Spring Wheat; Winter Wheat; Tomatoes; Upland Rice; Peas; Sugar Cane; ,,2,harvester,combine,568,C:HARV
+harvest,Corn Silage; Sorghum Silage;Tobacco,,2,harvester,,310,SILAGEHV
+harvest,Alfalfa; Clover; Grass; Grass-Legume Mix; Switchgrass;,,3,harvester,,569,C:HARV
+harvest, Sugar Beets; Potato;,,2,harvester,,402,POTAHARV
+harvest,Flooded Rice;,,2,harvester,,339,Flooded RiceCOMB
+harvest,Trees;Riparian Buffer;Woodlot - Hardwoods;Windbreak 3 Row;,,1,harvester,,,
+harvest,"Barley, Spring; Barley, Fall;  Corn; Cotton; Dry Field Beans; Millet; Oats; OatsFall; Peanut;  Rye, Winter; Sorghum;  Soybean; Sunflower; Wheat, Spring; Wheat, Winter; Tomatoes; Corn Silage; Sorghum Silage; Sugar Beets; Potatoes;Flooded Rice;Upland Rice; Peas; Sugar Cane; Tabacco",,1,kill,,451,KILL
+irrigation,Flooded Rice;,,8,Flooded Rice auto irrigation,,382,GATEPIPE
+irrigation,Flooded Rice;,,16,Flooded Rice ponding stop,,425,PUDDLE
+irrigation,All crops but Flooded Rice;,,8,irrigation,sprinkler,500,CNTR PVT IRRI
+irrigation,All crops but Flooded Rice;,,8,irrigation,furrow/flood,502,FLOODIRR
+irrigation,All crops but Flooded Rice;,,8,irrigation,drip,530,ALDRPIRR
+fertilizer_mineral,All crops;,,9,fertilization,surface broadcast,267,SPFTSPDR
+fertilizer_mineral,All crops;,,9,fertilization,surface band/ sidedress,472,ANHYTRLR
+fertilizer_mineral,All crops;,,9,fertilization,Incorpoarte / Inject,725,LQDF102
+fertilizer_mineral,All crops;,,9,fertilization,Fertigation,738,AERIALFT
+fertilizer_mineral,All crops;,,9,fertilization,Aeral Application,258,AERIALFT
+fertilizer_organic,All crops;,,9,manure,,266,MANSPDER
+grazing,All crops;,,19,grazing,start of grazing,426,GRAZE
+grazing,All crops;,,20,grazing,end of grazing,427,
+liming,All crops;,,27,liming,,734,LIMEAP
+burning,All crops;,,14,burning,,397,BURNUNIT
+tillage,All crops;,,0,tillage,intensive tillage,208,MLDBGE10
+tillage,All crops;,,0,tillage,reduced tillage,247,TANPGE19
+tillage,All crops;,,0,tillage,mulch tillage,221,SMCHGT15
+tillage,All crops;,,0,tillage,ridge tillage,212,CCHPLOW
+tillage,All crops;,,0,tillage,strip tillage,211,CHPLLE15
+tillage,All crops;,,0,tillage,no-till ,139,PLNTL6RW
+tillage,All crops;,,0,tillage,Growing Season Cultivation,565,WEED
+tillage,All crops;,,0,tillage,Mow,197,ROTMOWER
+tillage,All crops;,,0,tillage,Crimp,325,SWATHROL
+tillage,All crops;,,0,tillage,Broad-spectrum herbicide,611,C:WEED 6
+planting,CCorn; CMillet; CSorghum; CVetch;,,5,Planter,rowcrop,668,PLANT30
+planting,CCereal Rye; CWinter Grain-Other; CWinter Wheat;,,6,Planter,small grain,121,DRLLNT24
+planting,CAnnual Rye - Legume - Radish; CAnnual Rye - Legume; CAnnual Rye; CClover; CForage Radish; COilseed Radish,,6,Planter,hay,131,DRNOTMNT

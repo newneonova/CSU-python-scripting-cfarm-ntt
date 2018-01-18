@@ -1,0 +1,39 @@
+Operation_category,type,JX4,Till_name
+Planter,rowcrop,668,PLANT30
+Planter,small grain,121,DRLLNT24
+Planter,hay,131,DRNOTMNT
+Planter,tree,134,DRPRDHOE
+Planter,other,124,PLPOTATO
+Planter,transplanter,126,PLTRAN4R
+Puddle,,424,PUDDLE
+harvester,combine,568,C:HARV
+harvester,,310,SILAGEHV
+harvester,,569,C:HARV
+harvester,,402,POTAHARV
+harvester,,339,RICECOMB
+kill,,451,KILL
+rice auto irrigation,,382,GATEPIPE
+rice ponding stop,,425,PUDDLE
+irrigation,sprinkler,500,CNTR PVT IRRI
+irrigation,furrow/flood,502,FLOODIRR
+irrigation,drip,530,ALDRPIRR
+fertilization,surface broadcast,267,SPFTSPDR
+fertilization,surface band/ sidedress,472,ANHYTRLR
+fertilization,Incorpoarte / Inject,725,LQDF102
+fertilization,Fertigation,738,AERIALFT
+fertilization,Aeral Application,258,AERIALFT
+manure,,266,MANSPDER
+grazing,start of grazing,426,GRAZE
+grazing,end of grazing,427,
+liming,,734,LIMEAP
+burning,,397,BURNUNIT
+tillage,intensive tillage,208,MLDBGE10
+tillage,reduced tillage,247,TANPGE19
+tillage,mulch tillage,221,SMCHGT15
+tillage,ridge tillage,212,CCHPLOW
+tillage,strip tillage,211,CHPLLE15
+tillage,no-till ,139,PLNTL6RW
+tillage,Growing Season Cultivation,565,WEED
+tillage,Mow,197,ROTMOWER
+tillage,Crimp,325,SWATHROL
+tillage,Broad-spectrum herbicide,611,C:WEED 6

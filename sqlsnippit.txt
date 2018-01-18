@@ -1,0 +1,11 @@
+select * from cfarm.crop_events where crop_year > 2026
+and planting_date <  '2018-01-01 00:00:00'
+and crop_rotation_id in (
+select crop_rotation_id
+from cfarm.crop_rotations
+where location_id in(
+select location_id
+from cfarm.locations
+where person_id = 6804
+)
+ )
