@@ -1,0 +1,26 @@
+INSERT INTO cfarm.crop_wood_ratio_table (lookup_id, leaf_death_rate, wood_juvenile_root_death_rate,wood_mature_root_death_rate,n_fraction_fine_roots,n_fraction_leaves) VALUES (900,1,0.04,0.395,0.0159,0.008016529
+);
+INSERT INTO cfarm.crop_wood_ratio_table (lookup_id, leaf_death_rate, wood_juvenile_root_death_rate,wood_mature_root_death_rate,n_fraction_fine_roots,n_fraction_leaves) VALUES (913,1,0.04,0.395,0.0159,0.008016529
+);
+INSERT INTO cfarm.crop_wood_ratio_table (lookup_id, leaf_death_rate, wood_juvenile_root_death_rate,wood_mature_root_death_rate,n_fraction_fine_roots,n_fraction_leaves) VALUES (910,1,0.04,0.395,0.0159,0.008016529
+);
+INSERT INTO cfarm.crop_wood_ratio_table (lookup_id, leaf_death_rate, wood_juvenile_root_death_rate,wood_mature_root_death_rate,n_fraction_fine_roots,n_fraction_leaves) VALUES (908,0.025,0.04,0.495,0.0159,0.008016529
+);
+INSERT INTO cfarm.crop_wood_ratio_table (lookup_id, leaf_death_rate, wood_juvenile_root_death_rate,wood_mature_root_death_rate,n_fraction_fine_roots,n_fraction_leaves) VALUES (909,0.025,0.04,0.495,0.0159,0.008016529
+);
+INSERT INTO cfarm.crop_wood_ratio_table (lookup_id, leaf_death_rate, wood_juvenile_root_death_rate,wood_mature_root_death_rate,n_fraction_fine_roots,n_fraction_leaves) VALUES (912,0.025,0.04,0.495,0.0159,0.008016529
+);
+INSERT INTO cfarm.crop_wood_ratio_table (lookup_id, leaf_death_rate, wood_juvenile_root_death_rate,wood_mature_root_death_rate,n_fraction_fine_roots,n_fraction_leaves) VALUES (907,0.025,0.04,0.495,0.0159,0.008016529
+);
+INSERT INTO cfarm.crop_wood_ratio_table (lookup_id, leaf_death_rate, wood_juvenile_root_death_rate,wood_mature_root_death_rate,n_fraction_fine_roots,n_fraction_leaves) VALUES (901,1,0.04,0.395,0.0159,0.008016529
+);
+INSERT INTO cfarm.crop_wood_ratio_table (lookup_id, leaf_death_rate, wood_juvenile_root_death_rate,wood_mature_root_death_rate,n_fraction_fine_roots,n_fraction_leaves) VALUES (902,1,0.04,0.395,0.0159,0.008016529
+);
+INSERT INTO cfarm.crop_wood_ratio_table (lookup_id, leaf_death_rate, wood_juvenile_root_death_rate,wood_mature_root_death_rate,n_fraction_fine_roots,n_fraction_leaves) VALUES (903,1,0.04,0.395,0.0159,0.008016529
+);
+INSERT INTO cfarm.crop_wood_ratio_table (lookup_id, leaf_death_rate, wood_juvenile_root_death_rate,wood_mature_root_death_rate,n_fraction_fine_roots,n_fraction_leaves) VALUES (904,1,0.04,0.395,0.0159,0.008016529
+);
+INSERT INTO cfarm.crop_wood_ratio_table (lookup_id, leaf_death_rate, wood_juvenile_root_death_rate,wood_mature_root_death_rate,n_fraction_fine_roots,n_fraction_leaves) VALUES (905,1,0.04,0.395,0.0159,0.008016529
+);
+INSERT INTO cfarm.crop_wood_ratio_table (lookup_id, leaf_death_rate, wood_juvenile_root_death_rate,wood_mature_root_death_rate,n_fraction_fine_roots,n_fraction_leaves) VALUES (906,1,0.04,0.395,0.0159,0.008016529
+);

@@ -1,0 +1,13 @@
+ UPDATE cfarm.harvest_residue SET    n_fraction_wood = 0.0011 WHERE lookup_id =900
+ UPDATE cfarm.harvest_residue SET    n_fraction_wood = 0.0011 WHERE lookup_id =913
+ UPDATE cfarm.harvest_residue SET    n_fraction_wood = 0.0011 WHERE lookup_id =910
+ UPDATE cfarm.harvest_residue SET    n_fraction_wood = 0.0011 WHERE lookup_id =908
+ UPDATE cfarm.harvest_residue SET    n_fraction_wood = 0.0011 WHERE lookup_id =909
+ UPDATE cfarm.harvest_residue SET    n_fraction_wood = 0.0011 WHERE lookup_id =912
+ UPDATE cfarm.harvest_residue SET    n_fraction_wood = 0.0011 WHERE lookup_id =907
+ UPDATE cfarm.harvest_residue SET    n_fraction_wood = 0.0011 WHERE lookup_id =901
+ UPDATE cfarm.harvest_residue SET    n_fraction_wood = 0.0011 WHERE lookup_id =902
+ UPDATE cfarm.harvest_residue SET    n_fraction_wood = 0.0011 WHERE lookup_id =903
+ UPDATE cfarm.harvest_residue SET    n_fraction_wood = 0.0011 WHERE lookup_id =904
+ UPDATE cfarm.harvest_residue SET    n_fraction_wood = 0.0011 WHERE lookup_id =905
+ UPDATE cfarm.harvest_residue SET    n_fraction_wood = 0.0011 WHERE lookup_id =906
