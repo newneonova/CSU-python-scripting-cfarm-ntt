@@ -12,8 +12,8 @@ Foreach-Object{
 $content = Get-Content $_.FullName
 $name = $_.BaseName
 $array = $name.Split("_")
-Write-Host $array[1]
-$line = "$frontEndOfLine '$($array[1])','$($array[2])','$($array[3])','$($array[4])','$($name)','$content');"
+Write-Host $array[1] $array[5]
+$line = "$frontEndOfLine '$($array[1])','$($array[2])','$($array[3])','$($array[4])','$($array[5])','$($name)','$content');"
 Add-Content -Path $out -Value $line
 }
 
