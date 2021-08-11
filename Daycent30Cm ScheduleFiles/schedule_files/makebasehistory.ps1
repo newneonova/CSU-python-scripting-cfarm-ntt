@@ -9,7 +9,7 @@ $frontEndOfLine = "INSERT INTO cfarm.base_history_lookup_20210714 (mlra, hydric,
 
 Get-ChildItem $eqruns -Filter *.sch |
 Foreach-Object{
-$content = Get-Content $_.FullName
+$content = Get-Content $_.FullName -Raw
 $name = $_.BaseName
 $array = $name.Split("_")
 Write-Host $array[1]

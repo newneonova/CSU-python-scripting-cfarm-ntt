@@ -9,7 +9,7 @@ $frontEndOfLine = "INSERT INTO cfarm.daycent_30cm_equil_schedule_files (mlra, hy
 
 Get-ChildItem $eqruns -Filter *.sch |
 Foreach-Object{
-$content = Get-Content $_.FullName
+$content = Get-Content $_.FullName -Raw
 $name = $_.BaseName
 $array = $name.Split("_")
 Write-Host $array[1]
