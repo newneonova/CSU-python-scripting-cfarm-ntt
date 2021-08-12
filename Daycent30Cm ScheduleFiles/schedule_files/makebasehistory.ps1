@@ -5,16 +5,18 @@ if (Test-Path $out)
 {
   Remove-Item $out
 }
-$frontEndOfLine = "INSERT INTO cfarm.base_history_lookup_20210714 (mlra, hydric, irrig, grazetill, id_history, filename, sch) VALUES ("
+$frontEndOfLine = "INSERT INTO cfarm.daycent_30cm_base_history_schedule_files (mlra, hydric, irrig, grazetill, id_history, filename, sch) VALUES ("
 
+$collection = New-Object Collections.Generic.List[String]
 Get-ChildItem $eqruns -Filter *.sch |
 Foreach-Object{
 $content = Get-Content -Path $_.FullName -Raw
 $name = $_.BaseName
 $array = $name.Split("_")
 Write-Host $array[1]
-$line = "$frontEndOfLine '$($array[1])','$($array[2])','$($array[3])','$($array[4])','$($name)','$content');"
-Add-Content -Path $out -Value $line
+$line = "$frontEndOfLine '$($array[1])','$($array[2])','$($array[3])','$($array[4])','$($array[5])','$($name)','$content');"
+$collection.Add($line)
 }
+Add-Content -Path $out -Value $collection
 
 
