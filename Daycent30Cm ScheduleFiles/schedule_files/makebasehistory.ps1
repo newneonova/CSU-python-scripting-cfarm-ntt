@@ -1,6 +1,6 @@
-$eqruns = "C:\Users\RSF\Desktop\schedule_files\schedule_files\base_history\"
+$eqruns = ".\base_history\"
 
-$out =  "C:\Users\RSF\Desktop\schedule_files\schedule_files\baseHistoryLineMake"
+$out =  "baseHistoryLineMake"
 if (Test-Path $out) 
 {
   Remove-Item $out
@@ -9,7 +9,7 @@ $frontEndOfLine = "INSERT INTO cfarm.base_history_lookup_20210714 (mlra, hydric,
 
 Get-ChildItem $eqruns -Filter *.sch |
 Foreach-Object{
-$content = Get-Content $_.FullName -Raw
+$content = Get-Content -Path $_.FullName -Raw
 $name = $_.BaseName
 $array = $name.Split("_")
 Write-Host $array[1]

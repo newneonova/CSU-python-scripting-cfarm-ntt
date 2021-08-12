@@ -1,6 +1,6 @@
-$eqruns = "C:\Users\RSF\Desktop\schedule_files\schedule_files\equil\"
+$eqruns = ".\equil\"
 
-$out =  "C:\Users\RSF\Desktop\schedule_files\schedule_files\eqRunTableMake"
+$out =  "eqRunTableMake"
 if (Test-Path $out) 
 {
   Remove-Item $out
@@ -9,7 +9,7 @@ $frontEndOfLine = "INSERT INTO cfarm.daycent_30cm_equil_schedule_files (mlra, hy
 
 Get-ChildItem $eqruns -Filter *.sch |
 Foreach-Object{
-$content = Get-Content $_.FullName -Raw
+$content = Get-Content -Path $_.FullName -Raw
 $name = $_.BaseName
 $array = $name.Split("_")
 Write-Host $array[1]

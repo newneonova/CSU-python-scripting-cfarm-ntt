@@ -1,6 +1,6 @@
-$eqruns = "C:\Users\RSF\Desktop\schedule_files\schedule_files\spinup\"
+$eqruns = ".\spinup\"
 
-$out =  "C:\Users\RSF\Desktop\schedule_files\schedule_files\spinuplinemake"
+$out =  "spinuplinemake"
 if (Test-Path $out) 
 {
   Remove-Item $out
@@ -9,7 +9,7 @@ $frontEndOfLine = "INSERT INTO cfarm.spinup_history_lookup_20210421 (mlra, hydri
 
 Get-ChildItem $eqruns -Filter *.sch |
 Foreach-Object{
-$content = Get-Content $_.FullName -Raw
+$content = Get-Content -Path $_.FullName -Raw
 $name = $_.BaseName
 $array = $name.Split("_")
 Write-Host $array[1] $array[5]
