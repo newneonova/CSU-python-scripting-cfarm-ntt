@@ -16,7 +16,7 @@ $count=0
      $result = switch -File $file {
      { $_.Length -ge 80 } {
       
-        $subline = $_.subString(0,80)
+        $subline = $_.subString(0,76)
         $index=$subline.LastIndexOf(',')+1
         $line1 = $_.subString(0,$index)
         $line2 = $_.subString($index)
