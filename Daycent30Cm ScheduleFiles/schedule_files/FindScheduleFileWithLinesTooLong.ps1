@@ -6,7 +6,7 @@ $count=0
     $file = $_.FullName
     $do=$false
      $result = switch -File $file {
-     { $_.Length -ge 92 } {
+     { $_.Length -ge 80 } {
      $do=$true
      break
      }
@@ -14,9 +14,9 @@ $count=0
      $newlines=@()
      if($do){
      $result = switch -File $file {
-     { $_.Length -ge 92 } {
+     { $_.Length -ge 80 } {
       
-        $subline = $_.subString(0,89)
+        $subline = $_.subString(0,80)
         $index=$subline.LastIndexOf(',')+1
         $line1 = $_.subString(0,$index)
         $line2 = $_.subString($index)
