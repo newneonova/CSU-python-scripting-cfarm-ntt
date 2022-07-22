@@ -1,6 +1,14 @@
-$eqruns = ".\spinup\"
-$outdir = ".\fixedSpinups\"
+$Sources = @(".\spinup\",".\equil\",".\base_history\")
+$outdir = @(".\fixedSpinups\",".\fixedequil\",".\fixedbase_history\")
 $count=0
+for( $i=0;$i-le2;$i++){
+
+$eqrun=$Sources[$i]
+$out = $outdir[$i]
+Write-Host $eqrun " to " $out
+if (!(Test-Path $out)) {
+New-Item -Path $out -ItemType Directory
+}
 (Get-ChildItem -Path $eqruns -Filter '*.sch' -File) | ForEach-Object {
    
     $file = $_.FullName
@@ -38,3 +46,4 @@ $count=0
   
 }
   Write-Host $count
+}
