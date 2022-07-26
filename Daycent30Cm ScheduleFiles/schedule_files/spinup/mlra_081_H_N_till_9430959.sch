@@ -12,8 +12,7 @@ site.100      Site file name
 0             Climate scalar option
 1             Initial system
 G3            Initial crop
-            Initial tree
-
+            Initial  tree
 1960 1 DRAN 0.95
 
 Year Month Option

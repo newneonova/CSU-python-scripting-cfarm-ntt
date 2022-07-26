@@ -22,7 +22,7 @@ Year Month Option
 12           Output month
 1.000        Output interval
 F             Weather choice
-907764.wth
+weather.wth
   1  4 CULT K,
   1  5 CROP GI4
      5 PLTM, 5 CULT B, 5 FERT (0.77N), 5 IRRI A60, 6 IRRI A60,

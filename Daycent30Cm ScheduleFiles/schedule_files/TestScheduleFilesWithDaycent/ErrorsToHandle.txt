@@ -1,0 +1,71 @@
+mlra_001_N_N_till_9402592.sch
+ERROR: opening weather file error    2 file: 907764.wth
+
+mlra_011B_N_I_till_9429091.sch
+ERROR: dates out of sequenceERROR: parsing events
+
+mlra_011_N_I_till_9429036.sch
+ERROR: dates out of sequenceERROR: parsing events
+
+mlra_067s_H_I_graze_9435912.sch
+ERROR: dates out of sequenceERROR: year exceeds rotation length    11ERROR: year exceeds rotation length    11 reading: spinup.schERROR: Line: 10 GRAZ LRRM, 10 LAST, 8 IRRI A55, 10 SENM, 11 9 IRRI A55, GRAZ LRRM,
+
+mlra_067s_N_I_graze_9435912.sch
+ERROR: dates out of sequenceERROR: year exceeds rotation length    11ERROR: year exceeds rotation length    11 reading: spinup.schERROR: Line: 10 GRAZ LRRM, 10 LAST, 8 IRRI A55, 10 SENM, 11 9 IRRI A55, GRAZ LRRM,
+
+mlra_072_H_I_till_9430556.sch
+ERROR: dates out of sequenceERROR: parsing events
+
+mlra_072_N_I_till_9430556.sch
+ERROR: dates out of sequenceERROR: parsing events
+
+mlra_074_H_I_graze_9435923.sch
+ERROR: dates out of sequenceERROR: year exceeds rotation length    11ERROR: year exceeds rotation length    11 reading: spinup.schERROR: Line: 10 GRAZ LRRM, 10 LAST, 8 IRRI A55, 10 SENM, 11 9 IRRI A55, GRAZ LRRM,
+
+mlra_074_H_I_till_9430627.sch
+ERROR: dates out of sequenceERROR: parsing events
+
+mlra_074_N_I_graze_9435923.sch
+ERROR: dates out of sequenceERROR: year exceeds rotation length    11ERROR: year exceeds rotation length    11 reading: spinup.schERROR: Line: 10 GRAZ LRRM, 10 LAST, 8 IRRI A55, 10 SENM, 11 9 IRRI A55, GRAZ LRRM,
+
+mlra_074_N_I_till_9430627.sch
+ERROR: dates out of sequenceERROR: parsing events
+
+mlra_076_H_I_graze_9435927.sch
+ERROR: dates out of sequenceERROR: year exceeds rotation length    11ERROR: year exceeds rotation length    11 reading: spinup.schERROR: Line: 10 GRAZ LRRM, 10 LAST, 8 IRRI A55, 10 SENM, 11 9 IRRI A55, GRAZ LRRM,
+
+mlra_076_N_I_graze_9435927.sch
+ERROR: dates out of sequenceERROR: year exceeds rotation length    11ERROR: year exceeds rotation length    11 reading: spinup.schERROR: Line: 10 GRAZ LRRM, 10 LAST, 8 IRRI A55, 10 SENM, 11 9 IRRI A55, GRAZ LRRM,
+
+mlra_088_H_I_graze_9435964.sch
+ERROR: dates out of sequenceERROR: parsing events
+
+mlra_088_N_I_graze_9435964.sch
+ERROR: dates out of sequenceERROR: parsing events
+
+mlra_089_H_I_graze_9435964.sch
+ERROR: dates out of sequenceERROR: parsing events
+
+mlra_089_N_I_graze_9435964.sch
+ERROR: dates out of sequenceERROR: parsing events
+
+mlra_091A_H_I_graze_9397634.sch
+ERROR: block year less than 0  -999ERROR: illegal time step  -999ERROR: dates out of sequenceERROR: Line: 2            Block
+
+mlra_091A_N_I_graze_9397634.sch
+ERROR: block year less than 0  -999ERROR: illegal time step  -999ERROR: dates out of sequenceERROR: Line: 2            Block
+
+mlra_091B_H_I_graze_9397634.sch
+ERROR: block year less than 0  -999ERROR: illegal time step  -999ERROR: dates out of sequenceERROR: Line: 2            Block
+
+mlra_091B_N_N_graze_9397634.sch
+ERROR: block year less than 0  -999ERROR: illegal time step  -999ERROR: dates out of sequenceERROR: Line: 2            Block
+
+mlra_091_N_N_graze_9397634.sch
+ERROR: block year less than 0  -999ERROR: illegal time step  -999ERROR: dates out of sequenceERROR: Line: 2            Block
+
+mlra_09B_N_N_graze_9397634.sch
+ERROR: block year less than 0  -999ERROR: illegal time step  -999ERROR: dates out of sequenceERROR: Line: 2            Block
+
+mlra_107A_H_I_graze_9435993.sch
+ERROR: missing run start time in line:v1951          Starting year

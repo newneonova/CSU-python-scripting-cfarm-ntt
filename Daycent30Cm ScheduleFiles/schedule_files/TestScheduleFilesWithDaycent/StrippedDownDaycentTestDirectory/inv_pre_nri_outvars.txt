@@ -1,0 +1,14 @@
+crpval
+somtc
+somsc
+som2c(2)
+som3c
+cinput
+cproda
+omadtot
+creta
+fertot(1,1)
+omaetot(1)
+agcprd
+bgcmprd
+annet

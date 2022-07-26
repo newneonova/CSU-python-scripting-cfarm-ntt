@@ -1,0 +1,6 @@
+testScheduleFile.sch
+    time         somsc        cinput        agcprd      abgdefac        petann        crpval
+
+ 1993.00      3609.564         0.0         571.091         0.0           0.0          'C519'
+ 1994.00      3631.250       359.339       469.469         0.414        85.067        'C620'
+ 1995.00      3579.189       363.766       454.937         0.432        80.589       'COT68'

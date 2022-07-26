@@ -1,0 +1,1 @@
+-v "crpval","cgrain","accrst","agcprd","bgcjprd","bgcmprd","strmac(1)","strmac(2)","strmac(6)","volpac","petann","wdfx","nfixac","tnetmn(1)","somsc","fertot(1,1)","omadtot","omaetot(1)","irrtot","resp(1)","annet","aglivc","bglivcj","bglivcm","agcacc","bgcjacc","bgcmacc","cinput","cproda","cprodc","crmvst","n2oacc","prcann"
