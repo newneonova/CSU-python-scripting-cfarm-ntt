@@ -13,63 +13,19 @@ site.100      Site file name
 1             Initial system
 G3            Initial crop
             Initial tree
-1951 1 DRAN 0.65
-1974 1 DRAN 0.95
 
 Year Month Option
-1            Block #   LL-grasshay_2474
-1965         Last year
-6            Repeats # years
+1            Block #   rangeland 1950-74_2930
+1978         Last year
+1            Repeats # years
 1951         Output starting year
 1           Output month
 1.000        Output interval
 F            Weather choice
 weather.wth
-  1  4 CROP SW3
-     4 IRRI A55, 4 PLTM, 4 FERT (1.29N), 4 CULT I, 5 IRRI A55, 6 IRRI A55,
- 7 LAST, 
-     7 IRRI A55, 7 HARV G,
-  2  4 IRRI A55, 4 PLTM, 4 FERT (1.29N), 4 CULT I, 5 IRRI A55, 6 IRRI A55,
- 7 LAST, 
-     7 IRRI A55, 7 HARV G,
-  3  5 CROP G4
-     5 IRRI A55, 5 PLTM, 6 IRRI A55, 7 IRRI A55, 8 IRRI A55, 8 HARV H,
- 10 LAST, 10 SENM,
-  4  3 FRST, 4 IRRI A55, 4 FERT (0.69N), 5 IRRI A55, 6 IRRI A55, 6 HARV H,
- 7 IRRI A55, 
-     8 IRRI A55, 8 HARV H, 9 IRRI A55, 10 LAST, 10 SENM,
-  5  3 FRST, 4 IRRI A55, 4 FERT (0.69N), 5 IRRI A55, 6 IRRI A55, 6 HARV H,
- 7 IRRI A55, 
-     8 IRRI A55, 8 HARV H, 9 IRRI A55, 10 LAST, 10 SENM,
-  6  3 FRST, 4 IRRI A55, 4 FERT (0.69N), 5 IRRI A55, 6 IRRI A55, 6 HARV H,
- 7 IRRI A55, 
-     8 IRRI A55, 8 HARV H, 9 IRRI A55, 10 LAST, 10 SENM,
--999 -999 X
-2            Block #   LL-grasshay_2474
-1978         Last year
-6            Repeats # years
-1966         Output starting year
-1           Output month
-1.000        Output interval
-F            Weather choice
-weather.wth
-  1  4 CROP SW3
-     4 IRRI A55, 4 PLTM, 4 FERT (3.92N), 4 CULT I, 5 IRRI A55, 6 IRRI A55,
- 7 LAST, 
-     7 IRRI A55, 7 HARV G,
-  2  4 IRRI A55, 4 PLTM, 4 FERT (3.92N), 4 CULT I, 5 IRRI A55, 6 IRRI A55,
- 7 LAST, 
-     7 IRRI A55, 7 HARV G,
-  3  5 CROP G4
-     5 IRRI A55, 5 PLTM, 6 IRRI A55, 7 IRRI A55, 8 IRRI A55, 8 HARV H,
- 10 LAST, 10 SENM,
-  4  3 FRST, 4 IRRI A55, 4 FERT (2.49N), 5 IRRI A55, 6 IRRI A55, 6 HARV H,
- 7 IRRI A55, 
-     8 IRRI A55, 8 HARV H, 9 IRRI A55, 10 LAST, 10 SENM,
-  5  3 FRST, 4 IRRI A55, 4 FERT (2.49N), 5 IRRI A55, 6 IRRI A55, 6 HARV H,
- 7 IRRI A55, 
-     8 IRRI A55, 8 HARV H, 9 IRRI A55, 10 LAST, 10 SENM,
-  6  3 FRST, 4 IRRI A55, 4 FERT (2.49), 5 IRRI A55, 6 IRRI A55, 6 HARV H,
- 7 IRRI A55, 
-     8 IRRI A55, 8 HARV H, 9 IRRI A55, 10 LAST, 10 SENM,
+  1  1 GRAZ LRRH, 2 GRAZ LRRH,
+  1  3 CROP G5
+     3 FRST, 3 GRAZ LRRH, 4 GRAZ LRRH, 5 GRAZ LRRH, 6 GRAZ LRRH,
+     7 GRAZ LRRH, 8 GRAZ LRRH, 9 GRAZ LRRH, 10 GRAZ LRRH, 10 LAST,
+    10 SENM, 11 GRAZ LRRH, 12 GRAZ LRRH,
 -999 -999 X

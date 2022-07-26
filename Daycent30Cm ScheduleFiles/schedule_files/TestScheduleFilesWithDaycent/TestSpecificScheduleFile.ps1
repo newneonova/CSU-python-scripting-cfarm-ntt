@@ -13,7 +13,7 @@ $outbin = $RunDirectory+"\spinup.bin"
 if (Test-Path $outfile  ) {
   Remove-Item $outfile
 }
-$_="mlra_001_H_I_till_9428810.sch"
+$_="mlra_053B_N_I_graze_9435888.sch"
 
 if (Test-Path $copyOut  ) {
   Remove-Item $copyOut

@@ -46,7 +46,6 @@ site.100      Site file name
 1             Initial system
 G3            Initial crop
             Initial tree
-
 1960 1 DRAN 0.95
 
 Year Month Option
@@ -140,8 +139,7 @@ site.100
 -1            Climate scalar option
 1             Initial system
 GI4            Initial crop
-            Initial tree
-
+            Initial  tree
 1960 1 DRAN 0.95
 
 Year Month Option
@@ -354,7 +352,7 @@ Year Month Option
 12           Output month
 1.000        Output interval
 F             Weather choice
-907764.wth
+weather.wth
   1  4 CULT K,
   1  5 CROP GI4
      5 PLTM, 5 CULT B, 5 FERT (0.77N), 5 IRRI A60, 6 IRRI A60,
@@ -454,7 +452,6 @@ site.100      Site file name
 1             Initial system
 G3            Initial crop
             Initial tree
-
 1960 1 DRAN 0.95
 
 Year Month Option
@@ -532,8 +529,7 @@ site.100      Site file name
 0             Climate scalar option
 1             Initial system
 G3            Initial crop
-            Initial tree
-
+            Initial  tree
 1960 1 DRAN 0.95
 
 Year Month Option
@@ -772,7 +768,6 @@ site.100      Site file name
 1             Initial system
 G3            Initial crop
             Initial tree
-
 1960 1 DRAN 0.95
 
 Year Month Option
@@ -890,8 +885,7 @@ site.100      Site file name
 0             Climate scalar option
 1             Initial system
 G3            Initial crop
-            Initial tree
-
+            Initial  tree
 1960 1 DRAN 0.95
 
 Year Month Option
@@ -1157,7 +1151,6 @@ site.100      Site file name
 1             Initial system
 G3            Initial crop
             Initial tree
-
 1951 1 DRAN 0.95
 
 Year Month Option
@@ -1238,8 +1231,7 @@ site.100      Site file name
 0             Climate scalar option
 1             Initial system
 G3            Initial crop
-            Initial tree
-
+            Initial  tree
 1960 1 DRAN 0.95
 
 Year Month Option
@@ -1466,7 +1458,6 @@ site.100      Site file name
 1             Initial system
 G3            Initial crop
             Initial tree
-
 1960 1 DRAN 0.95
 
 Year Month Option
@@ -1584,8 +1575,7 @@ site.100      Site file name
 0             Climate scalar option
 1             Initial system
 G3            Initial crop
-            Initial tree
-
+            Initial  tree
 1960 1 DRAN 0.95
 
 Year Month Option
@@ -7540,7 +7530,7 @@ weather.wth
      9 HARV G,
   4 10 CROP W3
     10 IRRI A55, 10 PLTM, 10 OMAD (21.44,MLRA), 11 IRRI A55, 11 FERT (0.27N),
-  2  2 FERT (0.87N), 4 IRRI A55, 5 LAST, 5 IRRI A55, 5 HARV G,
+  5  2 FERT (0.87N), 4 IRRI A55, 5 LAST, 5 IRRI A55, 5 HARV G,
   5  6 CROP JTOM
      6 CULT G, 6 IRRI A55, 6 PLTM, 7 IRRI A55, 7 FERT (1.54N), 9 LAST,
  9 IRRI A55, 
@@ -8313,7 +8303,7 @@ weather.wth
      9 HARV G,
   4 10 CROP W3
     10 IRRI A55, 10 PLTM, 10 OMAD (21.44,MLRA), 11 IRRI A55, 11 FERT (0.27N),
-  2  2 FERT (0.87N), 4 IRRI A55, 5 LAST, 5 IRRI A55, 5 HARV G,
+  5  2 FERT (0.87N), 4 IRRI A55, 5 LAST, 5 IRRI A55, 5 HARV G,
   5  6 CROP JTOM
      6 CULT G, 6 IRRI A55, 6 PLTM, 7 IRRI A55, 7 FERT (1.54N), 9 LAST,
  9 IRRI A55, 
@@ -8680,7 +8670,6 @@ site.100      Site file name
 1             Initial system
 G3            Initial crop
             Initial tree
-
 1951 1 DRAN 0.65
 1974 1 DRAN 0.95
 
@@ -10112,7 +10101,6 @@ site.100      Site file name
 1             Initial system
 G3            Initial crop
             Initial tree
-
 1951 1 DRAN 0.95
 
 Year Month Option
@@ -10193,8 +10181,7 @@ site.100      Site file name
 0             Climate scalar option
 1             Initial system
 G3            Initial crop
-            Initial tree
-
+            Initial  tree
 1951 1 DRAN 0.95
 
 Year Month Option
@@ -10459,7 +10446,6 @@ site.100      Site file name
 1             Initial system
 G3            Initial crop
             Initial tree
-
 1951 1 DRAN 0.95
 
 Year Month Option
@@ -10550,8 +10536,7 @@ site.100      Site file name
 0             Climate scalar option
 1             Initial system
 G3            Initial crop
-            Initial tree
-
+            Initial  tree
 1951 1 DRAN 0.95
 
 Year Month Option
@@ -10808,8 +10793,7 @@ site.100      Site file name
 0             Climate scalar option
 1             Initial system
 G3            Initial crop
-            Initial tree
-
+            Initial  tree
 1951 1 DRAN 0.95
 
 Year Month Option
@@ -10896,8 +10880,7 @@ site.100      Site file name
 0             Climate scalar option
 1             Initial system
 G3            Initial crop
-            Initial tree
-
+            Initial  tree
 1951 1 DRAN 0.95
 
 Year Month Option
@@ -11181,7 +11164,6 @@ site.100      Site file name
 1             Initial system
 G3            Initial crop
             Initial tree
-
 1951 1 DRAN 0.95
 
 Year Month Option
@@ -11276,8 +11258,7 @@ site.100      Site file name
 0             Climate scalar option
 1             Initial system
 G3            Initial crop
-            Initial tree
-
+            Initial  tree
 1951 1 DRAN 0.95
 
 Year Month Option
@@ -11569,7 +11550,6 @@ site.100      Site file name
 1             Initial system
 G3            Initial crop
             Initial tree
-
 1951 1 DRAN 0.95
 
 Year Month Option
@@ -11672,8 +11652,7 @@ site.100      Site file name
 0             Climate scalar option
 1             Initial system
 G3            Initial crop
-            Initial tree
-
+            Initial  tree
 1951 1 DRAN 0.95
 
 Year Month Option
@@ -12055,7 +12034,6 @@ site.100      Site file name
 1             Initial system
 G3            Initial crop
             Initial tree
-
 1951 1 DRAN 0.95
 
 Year Month Option
@@ -12561,7 +12539,6 @@ site.100      Site file name
 1             Initial system
 G3            Initial crop
             Initial tree
-
 1951 1 DRAN 0.95
 
 Year Month Option
@@ -12656,8 +12633,7 @@ site.100      Site file name
 0             Climate scalar option
 1             Initial system
 G3            Initial crop
-            Initial tree
-
+            Initial  tree
 1951 1 DRAN 0.95
 
 Year Month Option
@@ -12949,7 +12925,6 @@ site.100      Site file name
 1             Initial system
 G3            Initial crop
             Initial tree
-
 1951 1 DRAN 0.95
 
 Year Month Option
@@ -13040,8 +13015,7 @@ site.100      Site file name
 0             Climate scalar option
 1             Initial system
 G3            Initial crop
-            Initial tree
-
+            Initial  tree
 1951 1 DRAN 0.95
 
 Year Month Option
@@ -13285,7 +13259,6 @@ site.100      Site file name
 1             Initial system
 G3            Initial crop
             Initial tree
-
 1970 1 DRAN 0.95
 
 Year Month Option
@@ -13456,8 +13429,7 @@ site.100      Site file name
 0             Climate scalar option
 1             Initial system
 G3            Initial crop
-            Initial tree
-
+            Initial  tree
 1970 1 DRAN 0.95
 
 Year Month Option
@@ -13911,8 +13883,7 @@ site.100      Site file name
 0             Climate scalar option
 1             Initial system
 G3            Initial crop
-            Initial tree
-
+            Initial  tree
 1970 1 DRAN 0.95
 
 Year Month Option
@@ -14058,8 +14029,7 @@ site.100      Site file name
 0             Climate scalar option
 1             Initial system
 G3            Initial crop
-            Initial tree
-
+            Initial  tree
 1970 1 DRAN 0.95
 
 Year Month Option
@@ -14601,7 +14571,6 @@ site.100      Site file name
 1             Initial system
 G3            Initial crop
             Initial tree
-
 1970 1 DRAN 0.95
 
 Year Month Option
@@ -14772,8 +14741,7 @@ site.100      Site file name
 0             Climate scalar option
 1             Initial system
 G3            Initial crop
-            Initial tree
-
+            Initial  tree
 1970 1 DRAN 0.95
 
 Year Month Option
@@ -15352,7 +15320,6 @@ site.100      Site file name
 1             Initial system
 G3            Initial crop
             Initial tree
-
 1970 1 DRAN 0.95
 
 Year Month Option
@@ -15523,8 +15490,7 @@ site.100      Site file name
 0             Climate scalar option
 1             Initial system
 G3            Initial crop
-            Initial tree
-
+            Initial  tree
 1970 1 DRAN 0.95
 
 Year Month Option
@@ -15988,7 +15954,6 @@ site.100      Site file name
 1             Initial system
 G3            Initial crop
             Initial tree
-
 1970 1 DRAN 0.95
 
 Year Month Option
@@ -16092,8 +16057,7 @@ site.100      Site file name
 0             Climate scalar option
 1             Initial system
 G3            Initial crop
-            Initial tree
-
+            Initial  tree
 1970 1 DRAN 0.95
 
 Year Month Option
@@ -16345,7 +16309,6 @@ site.100      Site file name
 1             Initial system
 G3            Initial crop
             Initial tree
-
 1970 1 DRAN 0.95
 
 Year Month Option
@@ -16449,8 +16412,7 @@ site.100      Site file name
 0             Climate scalar option
 1             Initial system
 G3            Initial crop
-            Initial tree
-
+            Initial  tree
 1970 1 DRAN 0.95
 
 Year Month Option
@@ -16730,7 +16692,6 @@ site.100      Site file name
 1             Initial system
 G3            Initial crop
             Initial tree
-
 1970 1 DRAN 0.95
 
 Year Month Option
@@ -16834,8 +16795,7 @@ site.100      Site file name
 0             Climate scalar option
 1             Initial system
 G3            Initial crop
-            Initial tree
-
+            Initial  tree
 1970 1 DRAN 0.95
 
 Year Month Option
@@ -17223,7 +17183,6 @@ site.100      Site file name
 1             Initial system
 G3            Initial crop
             Initial tree
-
 1970 1 DRAN 0.95
 
 Year Month Option
@@ -17394,8 +17353,7 @@ site.100      Site file name
 0             Climate scalar option
 1             Initial system
 G3            Initial crop
-            Initial tree
-
+            Initial  tree
 1970 1 DRAN 0.95
 
 Year Month Option
@@ -17838,7 +17796,6 @@ site.100      Site file name
 1             Initial system
 G3            Initial crop
             Initial tree
-
 1970 1 DRAN 0.95
 
 Year Month Option
@@ -17942,8 +17899,7 @@ site.100      Site file name
 0             Climate scalar option
 1             Initial system
 G3            Initial crop
-            Initial tree
-
+            Initial  tree
 1970 1 DRAN 0.95
 
 Year Month Option
@@ -18221,7 +18177,6 @@ site.100      Site file name
 1             Initial system
 G3            Initial crop
             Initial tree
-
 1951 1 DRAN 0.95
 
 Year Month Option
@@ -18312,8 +18267,7 @@ site.100      Site file name
 0             Climate scalar option
 1             Initial system
 G3            Initial crop
-            Initial tree
-
+            Initial  tree
 1951 1 DRAN 0.95
 
 Year Month Option
@@ -18601,7 +18555,6 @@ site.100      Site file name
 1             Initial system
 G3            Initial crop
             Initial tree
-
 1951 1 DRAN 0.95
 
 Year Month Option
@@ -18696,8 +18649,7 @@ site.100      Site file name
 0             Climate scalar option
 1             Initial system
 G3            Initial crop
-            Initial tree
-
+            Initial  tree
 1951 1 DRAN 0.95
 
 Year Month Option
@@ -19071,7 +19023,6 @@ site.100      Site file name
 1             Initial system
 G3            Initial crop
             Initial tree
-
 1970 1 DRAN 0.95
 
 Year Month Option
@@ -19240,8 +19191,7 @@ site.100      Site file name
 0             Climate scalar option
 1             Initial system
 G3            Initial crop
-            Initial tree
-
+            Initial  tree
 1970 1 DRAN 0.95
 
 Year Month Option
@@ -19686,7 +19636,6 @@ site.100      Site file name
 1             Initial system
 G3            Initial crop
             Initial tree
-
 1970 1 DRAN 0.95
 
 Year Month Option
@@ -19772,8 +19721,7 @@ site.100      Site file name
 0             Climate scalar option
 1             Initial system
 G3            Initial crop
-            Initial tree
-
+            Initial  tree
 1970 1 DRAN 0.95
 
 Year Month Option
@@ -20014,7 +19962,6 @@ site.100      Site file name
 1             Initial system
 G3            Initial crop
             Initial tree
-
 1970 1 DRAN 0.95
 
 Year Month Option
@@ -20100,8 +20047,7 @@ site.100      Site file name
 0             Climate scalar option
 1             Initial system
 G3            Initial crop
-            Initial tree
-
+            Initial  tree
 1970 1 DRAN 0.95
 
 Year Month Option
@@ -20342,7 +20288,6 @@ site.100      Site file name
 1             Initial system
 G3            Initial crop
             Initial tree
-
 1970 1 DRAN 0.95
 
 Year Month Option
@@ -20428,8 +20373,7 @@ site.100      Site file name
 0             Climate scalar option
 1             Initial system
 G3            Initial crop
-            Initial tree
-
+            Initial  tree
 1970 1 DRAN 0.95
 
 Year Month Option
@@ -20682,7 +20626,6 @@ site.100      Site file name
 1             Initial system
 G3            Initial crop
             Initial tree
-
 1970 1 DRAN 0.95
 
 Year Month Option
@@ -20768,8 +20711,7 @@ site.100      Site file name
 0             Climate scalar option
 1             Initial system
 G3            Initial crop
-            Initial tree
-
+            Initial  tree
 1970 1 DRAN 0.95
 
 Year Month Option
@@ -21045,7 +20987,6 @@ site.100      Site file name
 1             Initial system
 G3            Initial crop
             Initial tree
-
 1951 1 DRAN 0.95
 
 Year Month Option
@@ -21140,8 +21081,7 @@ site.100      Site file name
 0             Climate scalar option
 1             Initial system
 G3            Initial crop
-            Initial tree
-
+            Initial  tree
 1951 1 DRAN 0.95
 
 Year Month Option
@@ -21402,7 +21342,6 @@ site.100      Site file name
 1             Initial system
 G3            Initial crop
             Initial tree
-
 1970 1 DRAN 0.95
 
 Year Month Option
@@ -21488,8 +21427,7 @@ site.100      Site file name
 0             Climate scalar option
 1             Initial system
 G3            Initial crop
-            Initial tree
-
+            Initial  tree
 1970 1 DRAN 0.95
 
 Year Month Option
@@ -21708,8 +21646,7 @@ site.100      Site file name
 0             Climate scalar option
 1             Initial system
 G3            Initial crop
-            Initial tree
-            
+            Initial  tree
 1950 1 DRAN 0.95
 
 Year Month Option
@@ -21751,7 +21688,6 @@ site.100      Site file name
 1             Initial system
 G3            Initial crop
             Initial tree
-
 1950 1 DRAN 0.95
 
 Year Month Option
@@ -21798,8 +21734,7 @@ site.100      Site file name
 0             Climate scalar option
 1             Initial system
 G3            Initial crop
-            Initial tree
-            
+            Initial  tree
 1950 1 DRAN 0.95
 
 Year Month Option
@@ -21840,8 +21775,7 @@ site.100      Site file name
 0             Climate scalar option
 1             Initial system
 G3            Initial crop
-            Initial tree
-
+            Initial  tree
 1950 1 DRAN 0.95
 
 Year Month Option
@@ -22109,7 +22043,6 @@ site.100      Site file name
 1             Initial system
 G3            Initial crop
             Initial tree
-
 1951 1 DRAN 0.95
 
 Year Month Option
@@ -22204,8 +22137,7 @@ site.100      Site file name
 0             Climate scalar option
 1             Initial system
 G3            Initial crop
-            Initial tree
-
+            Initial  tree
 1951 1 DRAN 0.95
 
 Year Month Option
@@ -22462,7 +22394,6 @@ site.100      Site file name
 1             Initial system
 G3            Initial crop
             Initial tree
-
 1970 1 DRAN 0.95
 
 Year Month Option
@@ -22548,8 +22479,7 @@ site.100      Site file name
 0             Climate scalar option
 1             Initial system
 G3            Initial crop
-            Initial tree
-
+            Initial  tree
 1970 1 DRAN 0.95
 
 Year Month Option
@@ -26174,7 +26104,6 @@ site.100      Site file name
 1             Initial system
 G3            Initial crop
             Initial tree
-
 1974 1 DRAN 0.95
 
 Year Month Option
@@ -26345,8 +26274,7 @@ site.100      Site file name
 0             Climate scalar option
 1             Initial system
 G3            Initial crop
-            Initial tree
-
+            Initial  tree
 1974 1 DRAN 0.95
 
 Year Month Option
@@ -26795,7 +26723,6 @@ site.100      Site file name
 1             Initial system
 G3            Initial crop
             Initial tree
-
 1974 1 DRAN 0.95
 
 Year Month Option
@@ -26897,8 +26824,7 @@ site.100      Site file name
 0             Climate scalar option
 1             Initial system
 G3            Initial crop
-            Initial tree
-
+            Initial  tree
 1974 1 DRAN 0.95
 
 Year Month Option
@@ -27119,9 +27045,8 @@ site.100      Site file name
 0             Climate scalar option
 1             Initial system
 G3            Initial crop
-              Initial tree
-              
-1951 1 DRAN 0.95
+              Initial  tree
+11951 1 DRAN 0.95
 
 Year Month Option
 1            Block #   rangeland 1950-74_2913
@@ -27156,7 +27081,6 @@ site.100      Site file name
 1             Initial system
 G3            Initial crop
             Initial tree
-
 1974 1 DRAN 0.95
 
 Year Month Option
@@ -27233,8 +27157,7 @@ site.100      Site file name
 0             Climate scalar option
 1             Initial system
 G3            Initial crop
-            Initial tree
-
+            Initial  tree
 1974 1 DRAN 0.95
 
 Year Month Option
@@ -27279,8 +27202,8 @@ site.100      Site file name
 0             Climate scalar option
 1             Initial system
 G3            Initial crop
-              Initial tree
-              
+              Initial  tree
+
 Year Month Option
 1            Block #   rangeland 1950-74_2913
 1978         Last year
@@ -27465,7 +27388,6 @@ site.100      Site file name
 1             Initial system
 G3            Initial crop
             Initial tree
-
 1974 1 DRAN 0.95
 
 Year Month Option
@@ -27542,8 +27464,7 @@ site.100      Site file name
 0             Climate scalar option
 1             Initial system
 G3            Initial crop
-            Initial tree
-
+            Initial  tree
 1974 1 DRAN 0.95
 
 Year Month Option
@@ -27773,7 +27694,6 @@ site.100      Site file name
 1             Initial system
 G3            Initial crop
             Initial tree
-
 1974 1 DRAN 0.95
 
 Year Month Option
@@ -27845,8 +27765,7 @@ site.100      Site file name
 0             Climate scalar option
 1             Initial system
 G3            Initial crop
-            Initial tree
-
+            Initial  tree
 1951 1 DRAN 0.95
 
 Year Month Option
@@ -27877,8 +27796,7 @@ site.100      Site file name
 0             Climate scalar option
 1             Initial system
 G3            Initial crop
-            Initial tree
-
+            Initial  tree
 1974 1 DRAN 0.95
 
 Year Month Option
@@ -28134,7 +28052,6 @@ site.100      Site file name
 1             Initial system
 G3            Initial crop
             Initial tree
-
 1974 1 DRAN 0.95
 
 Year Month Option
@@ -28243,8 +28160,7 @@ site.100      Site file name
 0             Climate scalar option
 1             Initial system
 G3            Initial crop
-            Initial tree
-
+            Initial  tree
 1974 1 DRAN 0.95
 
 Year Month Option
@@ -28514,7 +28430,6 @@ site.100      Site file name
 1             Initial system
 G3            Initial crop
             Initial tree
-
 1974 1 DRAN 0.95
 
 Year Month Option
@@ -28591,8 +28506,7 @@ site.100      Site file name
 0             Climate scalar option
 1             Initial system
 G3            Initial crop
-            Initial tree
-
+            Initial  tree
 1974 1 DRAN 0.95
 
 Year Month Option
@@ -28846,7 +28760,6 @@ site.100      Site file name
 1             Initial system
 G3            Initial crop
             Initial tree
-
 1974 1 DRAN 0.95
 
 Year Month Option
@@ -28923,8 +28836,7 @@ site.100      Site file name
 0             Climate scalar option
 1             Initial system
 G3            Initial crop
-            Initial tree
-
+            Initial  tree
 1974 1 DRAN 0.95
 
 Year Month Option
@@ -29163,7 +29075,6 @@ site.100      Site file name
 1             Initial system
 G3            Initial crop
             Initial tree
-
 1974 1 DRAN 0.95
 
 Year Month Option
@@ -29249,8 +29160,7 @@ site.100      Site file name
 0             Climate scalar option
 1             Initial system
 G3            Initial crop
-            Initial tree
-
+            Initial  tree
 1974 1 DRAN 0.95
 
 Year Month Option
@@ -29490,7 +29400,6 @@ site.100      Site file name
 1             Initial system
 G3            Initial crop
             Initial tree
-
 1974 1 DRAN 0.95
 
 Year Month Option
@@ -29568,8 +29477,7 @@ site.100      Site file name
 0             Climate scalar option
 1             Initial system
 G3            Initial crop
-            Initial tree
-
+            Initial  tree
 1974 1 DRAN 0.95
 
 Year Month Option
@@ -29833,7 +29741,6 @@ site.100      Site file name
 1             Initial system
 G3            Initial crop
             Initial tree
-
 1974 1 DRAN 0.95
 
 Year Month Option
@@ -29933,8 +29840,7 @@ site.100      Site file name
 0             Climate scalar option
 1             Initial system
 G3            Initial crop
-            Initial tree
-
+            Initial  tree
 1974 1 DRAN 0.95
 
 Year Month Option
@@ -30188,7 +30094,6 @@ site.100      Site file name
 1             Initial system
 G3            Initial crop
             Initial tree
-
 1974 1 DRAN 0.95
 
 Year Month Option
@@ -30289,8 +30194,7 @@ site.100      Site file name
 0             Climate scalar option
 1             Initial system
 G3            Initial crop
-            Initial tree
-
+            Initial  tree
 1974 1 DRAN 0.95
 
 Year Month Option
@@ -30545,7 +30449,6 @@ site.100      Site file name
 1             Initial system
 G3            Initial crop
             Initial tree
-
 1974 1 DRAN 0.95
 
 Year Month Option
@@ -30645,8 +30548,7 @@ site.100      Site file name
 0             Climate scalar option
 1             Initial system
 G3            Initial crop
-            Initial tree
-
+            Initial  tree
 1974 1 DRAN 0.95
 
 Year Month Option
@@ -30935,7 +30837,6 @@ site.100      Site file name
 1             Initial system
 G3            Initial crop
             Initial tree
-
 1974 1 DRAN 0.95
 
 Year Month Option
@@ -31036,8 +30937,7 @@ site.100      Site file name
 0             Climate scalar option
 1             Initial system
 G3            Initial crop
-            Initial tree
-
+            Initial  tree
 1974 1 DRAN 0.95
 
 Year Month Option
@@ -31295,7 +31195,6 @@ site.100      Site file name
 1             Initial system
 G3            Initial crop
             Initial tree
-
 1974 1 DRAN 0.95
 
 Year Month Option
@@ -31414,8 +31313,7 @@ site.100      Site file name
 0             Climate scalar option
 1             Initial system
 G3            Initial crop
-            Initial tree
-
+            Initial  tree
 1974 1 DRAN 0.95
 
 Year Month Option
@@ -31687,7 +31585,6 @@ site.100      Site file name
 1             Initial system
 G3            Initial crop
             Initial tree
-
 1974 1 DRAN 0.95
 
 Year Month Option
@@ -31788,8 +31685,7 @@ site.100      Site file name
 0             Climate scalar option
 1             Initial system
 G3            Initial crop
-            Initial tree
-
+            Initial  tree
 1974 1 DRAN 0.95
 
 Year Month Option
@@ -32055,7 +31951,6 @@ site.100      Site file name
 1             Initial system
 G3            Initial crop
             Initial tree
-
 1974 1 DRAN 0.95
 
 Year Month Option
@@ -32132,8 +32027,7 @@ site.100      Site file name
 0             Climate scalar option
 1             Initial system
 G3            Initial crop
-            Initial tree
-
+            Initial  tree
 1974 1 DRAN 0.95
 
 Year Month Option
@@ -32393,7 +32287,6 @@ site.100      Site file name
 1             Initial system
 G3            Initial crop
             Initial tree
-
 1974 1 DRAN 0.95
 
 Year Month Option
@@ -32478,8 +32371,7 @@ site.100      Site file name
 0             Climate scalar option
 1             Initial system
 G3            Initial crop
-            Initial tree
-
+            Initial  tree
 1974 1 DRAN 0.95
 
 Year Month Option
@@ -32719,7 +32611,6 @@ site.100      Site file name
 1             Initial system
 G3            Initial crop
             Initial tree
-
 1974 1 DRAN 0.95
 
 Year Month Option
@@ -32796,8 +32687,7 @@ site.100      Site file name
 0             Climate scalar option
 1             Initial system
 G3            Initial crop
-            Initial tree
-
+            Initial  tree
 1974 1 DRAN 0.95
 
 Year Month Option
@@ -33055,7 +32945,6 @@ site.100      Site file name
 1             Initial system
 G3            Initial crop
             Initial tree
-
 1974 1 DRAN 0.95
 
 Year Month Option
@@ -33132,8 +33021,7 @@ site.100      Site file name
 0             Climate scalar option
 1             Initial system
 G3            Initial crop
-            Initial tree
-
+            Initial  tree
 1974 1 DRAN 0.95
 
 Year Month Option
@@ -33378,7 +33266,6 @@ site.100      Site file name
 1             Initial system
 G3            Initial crop
             Initial tree
-
 1974 1 DRAN 0.95
 
 Year Month Option
@@ -33471,8 +33358,7 @@ site.100      Site file name
 0             Climate scalar option
 1             Initial system
 G3            Initial crop
-            Initial tree
-
+            Initial  tree
 1974 1 DRAN 0.95
 
 Year Month Option
@@ -33780,7 +33666,6 @@ site.100      Site file name
 1             Initial system
 G3            Initial crop
             Initial tree
-
 1974 1 DRAN 0.95
 
 Year Month Option
@@ -33915,8 +33800,7 @@ site.100      Site file name
 0             Climate scalar option
 1             Initial system
 G3            Initial crop
-            Initial tree
-
+            Initial  tree
 1974 1 DRAN 0.95
 
 Year Month Option
@@ -34269,7 +34153,6 @@ site.100      Site file name
 1             Initial system
 G3            Initial crop
             Initial tree
-
 1974 1 DRAN 0.95
 
 Year Month Option
@@ -34375,8 +34258,7 @@ site.100      Site file name
 0             Climate scalar option
 1             Initial system
 G3            Initial crop
-            Initial tree
-
+            Initial  tree
 1974 1 DRAN 0.95
 
 Year Month Option
@@ -34757,7 +34639,6 @@ site.100      Site file name
 1             Initial system
 G3            Initial crop
             Initial tree
-
 1974 1 DRAN 0.95
 
 Year Month Option
@@ -34863,8 +34744,7 @@ site.100      Site file name
 0             Climate scalar option
 1             Initial system
 G3            Initial crop
-            Initial tree
-
+            Initial  tree
 1974 1 DRAN 0.95
 
 Year Month Option
@@ -35154,7 +35034,7 @@ weather.wth
  6 GRAZ LRRM,
      6 IRRI A55, 7 IRRI A55, 7 GRAZ LRRM, 7 IRRI A55,8 IRRI A55,
  8 GRAZ LRRM, 9 IRRI A55, 9 GRAZ LRRM, 
-     10 GRAZ LRRM, 10 LAST, 8 IRRI A55, 10 SENM, 11 9 IRRI A55, GRAZ LRRM, 
+     10 GRAZ LRRM, 10 LAST, 10 SENM, 11 GRAZ LRRM, 
      12 GRAZ LRRM,
   2  1 GRAZ LRRM, 2 GRAZ LRRM, 3 FRST, 3 GRAZ LRRM, 4 GRAZ LRRM,
      5 IRRI A55, 5 GRAZ LRRM, 6 IRRI A55, 6 GRAZ LRRM, 6  IRRI A55,
@@ -35227,7 +35107,6 @@ site.100      Site file name
 1             Initial system
 G3            Initial crop
             Initial tree
-
 1974 1 DRAN 0.95
 
 Year Month Option
@@ -35333,8 +35212,7 @@ site.100      Site file name
 0             Climate scalar option
 1             Initial system
 G3            Initial crop
-            Initial tree
-
+            Initial  tree
 1974 1 DRAN 0.95
 
 Year Month Option
@@ -35396,7 +35274,7 @@ weather.wth
  6 GRAZ LRRM,
      6 IRRI A55, 7 IRRI A55, 7 GRAZ LRRM, 7 IRRI A55,8 IRRI A55,
  8 GRAZ LRRM, 9 IRRI A55, 9 GRAZ LRRM, 
-     10 GRAZ LRRM, 10 LAST, 8 IRRI A55, 10 SENM, 11 9 IRRI A55, GRAZ LRRM, 
+     10 GRAZ LRRM, 10 LAST,  10 SENM, 11 GRAZ LRRM, 
      12 GRAZ LRRM,
   2  1 GRAZ LRRM, 2 GRAZ LRRM, 3 FRST, 3 GRAZ LRRM, 4 GRAZ LRRM,
      5 IRRI A55, 5 GRAZ LRRM, 6 IRRI A55, 6 GRAZ LRRM, 6  IRRI A55,
@@ -35697,7 +35575,6 @@ site.100      Site file name
 1             Initial system
 G3            Initial crop
             Initial tree
-
 1974 1 DRAN 0.95
 
 Year Month Option
@@ -35845,8 +35722,7 @@ site.100      Site file name
 0             Climate scalar option
 1             Initial system
 G3            Initial crop
-            Initial tree
-
+            Initial  tree
 1974 1 DRAN 0.95
 
 Year Month Option
@@ -36241,7 +36117,6 @@ site.100      Site file name
 1             Initial system
 G3            Initial crop
             Initial tree
-
 1974 1 DRAN 0.95
 
 Year Month Option
@@ -36389,8 +36264,7 @@ site.100      Site file name
 0             Climate scalar option
 1             Initial system
 G3            Initial crop
-            Initial tree
-
+            Initial  tree
 1974 1 DRAN 0.95
 
 Year Month Option
@@ -37313,8 +37187,9 @@ weather.wth
   1  3 IRRI A55, 3 FERT (1.29N), 3 CULT J,
   1  4 CROP C4
      4 IRRI A55, 4 PLTM, 4 CULT A, 5 IRRI A55, 5 FERT (2.6N), 5 CULT B,
+	 6 IRRI A55, 7 IRRI A55, 8 IRRI A55, 8 HARV G,
  8 LAST, 
-     6 IRRI A55, 7 IRRI A55, 8 IRRI A55, 8 HARV G,
+     
 -999 -999 X
 2            Block #   CCC_789
 1978         Last year
@@ -37542,8 +37417,9 @@ weather.wth
   1  3 IRRI A55, 3 FERT (1.29N), 3 CULT J,
   1  4 CROP C4
      4 IRRI A55, 4 PLTM, 4 CULT A, 5 IRRI A55, 5 FERT (2.6N), 5 CULT B,
+	 6 IRRI A55, 7 IRRI A55, 8 IRRI A55, 8 HARV G,
  8 LAST, 
-     6 IRRI A55, 7 IRRI A55, 8 IRRI A55, 8 HARV G,
+     
 -999 -999 X
 2            Block #   CCC_789
 1978         Last year
@@ -38153,7 +38029,7 @@ weather.wth
  6 GRAZ LRRM,
      6 IRRI A55, 7 IRRI A55, 7 GRAZ LRRM, 7 IRRI A55,8 IRRI A55,
  8 GRAZ LRRM, 9 IRRI A55, 9 GRAZ LRRM, 
-     10 GRAZ LRRM, 10 LAST, 8 IRRI A55, 10 SENM, 11 9 IRRI A55, GRAZ LRRM, 
+     10 GRAZ LRRM, 10 LAST, 10 SENM, 11 GRAZ LRRM, 
      12 GRAZ LRRM,
   2  1 GRAZ LRRM, 2 GRAZ LRRM, 3 FRST, 3 GRAZ LRRM, 4 GRAZ LRRM,
      5 IRRI A55, 5 GRAZ LRRM, 6 IRRI A55, 6 GRAZ LRRM, 6  IRRI A55,
@@ -38242,8 +38118,9 @@ weather.wth
      5 IRRI A55, 5 PLTM, 5 CULT C, 6 IRRI A55, 6 FERT (3.74N), 6 CULT B,
  7 IRRI A55, 
      8 IRRI A55, 9 LAST, 9 IRRI A55, 9 HARV G,
+	    10 IRRI A55, 10 PLTM, 10 OMAD (0.47,MLRA), 10 FERT (0.27N), 10 CULT J,
   1 11 CROP W3
-    10 IRRI A55, 10 PLTM, 10 OMAD (0.47,MLRA), 10 FERT (0.27N), 10 CULT J,
+ 
   2  4 IRRI A55, 4 FERT (0.87N), 5 IRRI A55, 6 IRRI A55, 7 LAST, 7 IRRI A55,
  7 HARV G,
 -999 -999 X
@@ -38260,8 +38137,8 @@ weather.wth
      5 IRRI A55, 5 PLTM, 5 CULT C, 6 IRRI A55, 6 FERT (13.48N), 6 CULT B,
  7 IRRI A55, 
      8 IRRI A55, 9 LAST, 9 IRRI A55, 9 HARV G,
+	  10 IRRI A55, 10 PLTM, 10 OMAD (0.47,MLRA), 10 FERT (0.83N), 10 CULT J,
   1 11 CROP W3
-    10 IRRI A55, 10 PLTM, 10 OMAD (0.47,MLRA), 10 FERT (0.83N), 10 CULT J,
   2  4 IRRI A55, 4 FERT (2.66N), 5 IRRI A55, 6 IRRI A55, 7 LAST, 7 IRRI A55,
  7 HARV G,
 -999 -999 X
@@ -38416,7 +38293,7 @@ weather.wth
  6 GRAZ LRRM,
      6 IRRI A55, 7 IRRI A55, 7 GRAZ LRRM, 7 IRRI A55,8 IRRI A55,
  8 GRAZ LRRM, 9 IRRI A55, 9 GRAZ LRRM, 
-     10 GRAZ LRRM, 10 LAST, 8 IRRI A55, 10 SENM, 11 9 IRRI A55, GRAZ LRRM, 
+     10 GRAZ LRRM, 10 LAST, 10 SENM, 11 GRAZ LRRM, 
      12 GRAZ LRRM,
   2  1 GRAZ LRRM, 2 GRAZ LRRM, 3 FRST, 3 GRAZ LRRM, 4 GRAZ LRRM,
      5 IRRI A55, 5 GRAZ LRRM, 6 IRRI A55, 6 GRAZ LRRM, 6  IRRI A55,
@@ -38504,8 +38381,8 @@ weather.wth
      5 IRRI A55, 5 PLTM, 5 CULT C, 6 IRRI A55, 6 FERT (3.74N), 6 CULT B,
  7 IRRI A55, 
      8 IRRI A55, 9 LAST, 9 IRRI A55, 9 HARV G,
+	 10 IRRI A55, 10 PLTM, 10 OMAD (0.47,MLRA), 10 FERT (0.27N), 10 CULT J,
   1 11 CROP W3
-    10 IRRI A55, 10 PLTM, 10 OMAD (0.47,MLRA), 10 FERT (0.27N), 10 CULT J,
   2  4 IRRI A55, 4 FERT (0.87N), 5 IRRI A55, 6 IRRI A55, 7 LAST, 7 IRRI A55,
  7 HARV G,
 -999 -999 X
@@ -38522,8 +38399,8 @@ weather.wth
      5 IRRI A55, 5 PLTM, 5 CULT C, 6 IRRI A55, 6 FERT (13.48N), 6 CULT B,
  7 IRRI A55, 
      8 IRRI A55, 9 LAST, 9 IRRI A55, 9 HARV G,
+	  10 IRRI A55, 10 PLTM, 10 OMAD (0.47,MLRA), 10 FERT (0.83N), 10 CULT J,
   1 11 CROP W3
-    10 IRRI A55, 10 PLTM, 10 OMAD (0.47,MLRA), 10 FERT (0.83N), 10 CULT J,
   2  4 IRRI A55, 4 FERT (2.66N), 5 IRRI A55, 6 IRRI A55, 7 LAST, 7 IRRI A55,
  7 HARV G,
 -999 -999 X
@@ -39162,7 +39039,7 @@ weather.wth
  6 GRAZ LRRM,
      6 IRRI A55, 7 IRRI A55, 7 GRAZ LRRM, 7 IRRI A55,8 IRRI A55,
  8 GRAZ LRRM, 9 IRRI A55, 9 GRAZ LRRM, 
-     10 GRAZ LRRM, 10 LAST, 8 IRRI A55, 10 SENM, 11 9 IRRI A55, GRAZ LRRM, 
+     10 GRAZ LRRM, 10 LAST, 10 SENM, 11 GRAZ LRRM, 
      12 GRAZ LRRM,
   2  1 GRAZ LRRM, 2 GRAZ LRRM, 3 FRST, 3 GRAZ LRRM, 4 GRAZ LRRM,
      5 IRRI A55, 5 GRAZ LRRM, 6 IRRI A55, 6 GRAZ LRRM, 6  IRRI A55,
@@ -39416,7 +39293,7 @@ weather.wth
  6 GRAZ LRRM,
      6 IRRI A55, 7 IRRI A55, 7 GRAZ LRRM, 7 IRRI A55,8 IRRI A55,
  8 GRAZ LRRM, 9 IRRI A55, 9 GRAZ LRRM, 
-     10 GRAZ LRRM, 10 LAST, 8 IRRI A55, 10 SENM, 11 9 IRRI A55, GRAZ LRRM, 
+     10 GRAZ LRRM, 10 LAST, 10 SENM, 11 GRAZ LRRM, 
      12 GRAZ LRRM,
   2  1 GRAZ LRRM, 2 GRAZ LRRM, 3 FRST, 3 GRAZ LRRM, 4 GRAZ LRRM,
      5 IRRI A55, 5 GRAZ LRRM, 6 IRRI A55, 6 GRAZ LRRM, 6  IRRI A55,
@@ -43320,7 +43197,6 @@ site.100      Site file name
 1             Initial system
 G3            Initial crop
             Initial tree
-
 1951 1 DRAN 0.95
 
 Year Month Option
@@ -43659,7 +43535,6 @@ site.100      Site file name
 1             Initial system
 G3            Initial crop
             Initial tree
-
 1960 1 DRAN 0.95
 
 Year Month Option
@@ -43738,8 +43613,7 @@ site.100      Site file name
 0             Climate scalar option
 1             Initial system
 G3            Initial crop
-            Initial tree
-
+            Initial  tree
 1960 1 DRAN 0.95
 
 Year Month Option
@@ -44101,7 +43975,6 @@ site.100      Site file name
 1             Initial system
 G3            Initial crop
             Initial tree
-
 1951 1 DRAN 0.95
 
 Year Month Option
@@ -44356,8 +44229,7 @@ site.100      Site file name
 0             Climate scalar option
 1             Initial system
 G3            Initial crop
-            Initial tree
-
+            Initial  tree
 1960 1 DRAN 0.95
 
 Year Month Option
@@ -44444,8 +44316,7 @@ site.100      Site file name
 0             Climate scalar option
 1             Initial system
 G3            Initial crop
-            Initial tree
-
+            Initial  tree
 1960 1 DRAN 0.95
 
 Year Month Option
@@ -44713,7 +44584,6 @@ site.100      Site file name
 1             Initial system
 G3            Initial crop
             Initial tree
-
 1960 1 DRAN 0.95
 
 Year Month Option
@@ -44790,8 +44660,7 @@ site.100      Site file name
 0             Climate scalar option
 1             Initial system
 G3            Initial crop
-            Initial tree
-
+            Initial  tree
 1960 1 DRAN 0.95
 
 Year Month Option
@@ -45061,7 +44930,6 @@ site.100      Site file name
 1             Initial system
 G3            Initial crop
             Initial tree
-
 1960 1 DRAN 0.95
 
 Year Month Option
@@ -45140,8 +45008,7 @@ site.100      Site file name
 0             Climate scalar option
 1             Initial system
 G3            Initial crop
-            Initial tree
-
+            Initial  tree
 1960 1 DRAN 0.95
 
 Year Month Option
@@ -45377,7 +45244,6 @@ site.100      Site file name
 1             Initial system
 G3            Initial crop
             Initial tree
-
 1960 1 DRAN 0.95
 
 Year Month Option
@@ -45466,8 +45332,7 @@ site.100      Site file name
 0             Climate scalar option
 1             Initial system
 G3            Initial crop
-            Initial tree
-
+            Initial  tree
 1960 1 DRAN 0.95
 
 Year Month Option
@@ -45725,7 +45590,6 @@ site.100      Site file name
 1             Initial system
 G3            Initial crop
             Initial tree
-
 1963 1 DRAN 0.95
 
 Year Month Option
@@ -45826,8 +45690,7 @@ site.100      Site file name
 0             Climate scalar option
 1             Initial system
 G3            Initial crop
-            Initial tree
-
+            Initial  tree
 1963 1 DRAN 0.95
 
 Year Month Option
@@ -46283,7 +46146,6 @@ site.100      Site file name
 1             Initial system
 G3            Initial crop
             Initial tree
-
 1951 1 DRAN 0.95
 
 Year Month Option
@@ -46366,8 +46228,7 @@ site.100      Site file name
 0             Climate scalar option
 1             Initial system
 G3            Initial crop
-            Initial tree
-
+            Initial  tree
 1963 1 DRAN 0.95
 
 Year Month Option
@@ -46731,7 +46592,6 @@ site.100      Site file name
 1             Initial system
 G3            Initial crop
             Initial tree
-
 1963 1 DRAN 0.95
 
 Year Month Option
@@ -46814,8 +46674,7 @@ site.100      Site file name
 0             Climate scalar option
 1             Initial system
 G3            Initial crop
-            Initial tree
-
+            Initial  tree
 1963 1 DRAN 0.95
 
 Year Month Option
@@ -47048,7 +46907,6 @@ site.100      Site file name
 1             Initial system
 G3            Initial crop
             Initial tree
-
 1963 1 DRAN 0.95
 
 Year Month Option
@@ -47147,8 +47005,7 @@ site.100      Site file name
 0             Climate scalar option
 1             Initial system
 G3            Initial crop
-            Initial tree
-
+            Initial  tree
 1963 1 DRAN 0.95
 
 Year Month Option
@@ -47385,7 +47242,7 @@ weather.wth
  6 IRRI A55, 7 IRRI A55, 7 GRAZ LRRL,
      7 IRRI A55, 8 IRRI A55, 8 GRAZ LRRL, 8 IRRI A55, 9 IRRI A55,
  9 GRAZ LRRM, 9 IRRI A55, 10 GRAZ LRRH, 10 LAST, 
-     10 SENM, 11 GRAZ LRRM, 9 IRRI A55, 
+     10 SENM, 11 GRAZ LRRM, 
 -999 -999 X
 ');
 INSERT INTO cfarm.daycent_30cm_spinup_schedule_files (mlra, hydric, irrig, grazetill, id_history, filename, sch) VALUES ( '088','H','I','till','9403672','mlra_088_H_I_till_9403672','1951          Starting year
@@ -47403,7 +47260,6 @@ site.100      Site file name
 1             Initial system
 G3            Initial crop
             Initial tree
-
 1974 1 DRAN 0.95
 
 Year Month Option
@@ -47509,8 +47365,7 @@ site.100      Site file name
 0             Climate scalar option
 1             Initial system
 G3            Initial crop
-            Initial tree
-
+            Initial  tree
 1974 1 DRAN 0.95
 
 Year Month Option
@@ -47587,7 +47442,7 @@ weather.wth
  6 IRRI A55, 7 IRRI A55, 7 GRAZ LRRL,
      7 IRRI A55, 8 IRRI A55, 8 GRAZ LRRL, 8 IRRI A55, 9 IRRI A55,
  9 GRAZ LRRM, 9 IRRI A55, 10 GRAZ LRRH, 10 LAST, 
-     10 SENM, 11 GRAZ LRRM, 9 IRRI A55, 
+     10 SENM, 11 GRAZ LRRM 
 -999 -999 X
 ');
 INSERT INTO cfarm.daycent_30cm_spinup_schedule_files (mlra, hydric, irrig, grazetill, id_history, filename, sch) VALUES ( '088','N','I','till','9403672','mlra_088_N_I_till_9403672','1951          Starting year
@@ -47785,7 +47640,7 @@ weather.wth
  6 IRRI A55, 7 IRRI A55, 7 GRAZ LRRL,
      7 IRRI A55, 8 IRRI A55, 8 GRAZ LRRL, 8 IRRI A55, 9 IRRI A55,
  9 GRAZ LRRM, 9 IRRI A55, 10 GRAZ LRRH, 10 LAST, 
-     10 SENM, 11 GRAZ LRRM, 9 IRRI A55, 
+     10 SENM, 11 GRAZ LRRM
 -999 -999 X
 ');
 INSERT INTO cfarm.daycent_30cm_spinup_schedule_files (mlra, hydric, irrig, grazetill, id_history, filename, sch) VALUES ( '089','H','I','till','9403672','mlra_089_H_I_till_9403672','1951          Starting year
@@ -47803,7 +47658,6 @@ site.100      Site file name
 1             Initial system
 G3            Initial crop
             Initial tree
-
 1974 1 DRAIN 0.95
 
 Year Month Option
@@ -47894,7 +47748,7 @@ weather.wth
  6 IRRI A55, 7 IRRI A55, 7 GRAZ LRRL,
      7 IRRI A55, 8 IRRI A55, 8 GRAZ LRRL, 8 IRRI A55, 9 IRRI A55,
  9 GRAZ LRRM, 9 IRRI A55, 10 GRAZ LRRH, 10 LAST, 
-     10 SENM, 11 GRAZ LRRM, 9 IRRI A55, 
+     10 SENM, 11 GRAZ LRRM
 -999 -999 X
 ');
 INSERT INTO cfarm.daycent_30cm_spinup_schedule_files (mlra, hydric, irrig, grazetill, id_history, filename, sch) VALUES ( '089','N','I','till','9403672','mlra_089_N_I_till_9403672','1951          Starting year
@@ -48019,7 +47873,6 @@ site.100      Site file name
 1             Initial system
 G3            Initial crop
             Initial tree
-
 1974 1 DRAN 0.95
 
 Year Month Option
@@ -48108,8 +47961,7 @@ site.100      Site file name
 0             Climate scalar option
 1             Initial system
 G3            Initial crop
-            Initial tree
-
+            Initial  tree
 1974 1 DRAN 0.95
 
 Year Month Option
@@ -48367,7 +48219,7 @@ weather.wth
      6 IRRI A55, 7 IRRI A55, 7 GRAZ LRRM, 7 IRRI A55, 8 IRRI A55, 8 GRAZ LRRL, 
      8 IRRI A55,  9 IRRI A55, 9 GRAZ LRRL, 9 IRRI A55, 10 GRAZ LRRL, 10 LAST, 
      10 SENM,
--999 -999 
+-999 -999 X
      
 2            Block #   NEWGRAZE_LRR_K_1951-1974_SYSTEM_1_GRAZING_13018
 1978         Last year
@@ -48382,7 +48234,7 @@ weather.wth
      6 IRRI A55, 7 IRRI A55, 7 GRAZ LRRM, 7 IRRI A55, 8 IRRI A55, 8 GRAZ LRRL, 
      8 IRRI A55, 9 IRRI A55, 9 GRAZ LRRL, 9 IRRI A55, 10 GRAZ LRRL, 10 LAST, 
      10 SENM,
--999 -999
+-999 -999 X
 ');
 INSERT INTO cfarm.daycent_30cm_spinup_schedule_files (mlra, hydric, irrig, grazetill, id_history, filename, sch) VALUES ( '091A','N','I','graze','9397634','mlra_091A_N_I_graze_9397634','1951          Starting year
 1978          Last year
@@ -48413,7 +48265,7 @@ weather.wth
      3 FRST, 4 GRAZ LRRL, 5 GRAZ LRRH, 5 IRRI A55, 6 GRAZ LRRH, 
      6 IRRI A55, 7 GRAZ LRRM, 7 IRRI A55, 8 GRAZ LRRL, 8 IRRI A55, 
      9 GRAZ LRRL, 9 IRRI A55, 10 GRAZ LRRL, 10 LAST, 10 SENM,
--999 -999 
+-999 -999 X
      
 2            Block #   NEWGRAZE_LRR_K_1951-1974_SYSTEM_1_GRAZING_13018
 1978         Last year
@@ -48427,7 +48279,7 @@ weather.wth
      3 FRST, 4 GRAZ LRRL, 5 GRAZ LRRH, 5 IRRI A55, 6 GRAZ LRRH, 
      6 IRRI A55, 7 GRAZ LRRM, 7 IRRI A55, 8 GRAZ LRRL, 8 IRRI A55, 
      9 GRAZ LRRL, 9 IRRI A55, 10 GRAZ LRRL, 10 LAST, 10 SENM,
--999 -999
+-999 -999 X
 ');
 INSERT INTO cfarm.daycent_30cm_spinup_schedule_files (mlra, hydric, irrig, grazetill, id_history, filename, sch) VALUES ( '091B','H','I','graze','9397634','mlra_091B_H_I_graze_9397634','1951          Starting year
 1978          Last year
@@ -48458,7 +48310,7 @@ weather.wth
      3 FRST, 4 GRAZ LRRL, 5 GRAZ LRRH, 5 IRRI A55, 6 GRAZ LRRH, 
      6 IRRI A55, 7 GRAZ LRRM, 7 IRRI A55, 8 GRAZ LRRL, 8 IRRI A55, 
      9 GRAZ LRRL, 9 IRRI A55, 10 GRAZ LRRL, 10 LAST, 10 SENM,
--999 -999 
+-999 -999 X
      
 2            Block #   NEWGRAZE_LRR_K_1951-1974_SYSTEM_1_GRAZING_13018
 1978         Last year
@@ -48472,7 +48324,7 @@ weather.wth
      3 FRST, 4 GRAZ LRRL, 5 GRAZ LRRH, 5 IRRI A55, 6 GRAZ LRRH, 
      6 IRRI A55, 7 GRAZ LRRM, 7 IRRI A55, 8 GRAZ LRRL, 8 IRRI A55, 
      9 GRAZ LRRL, 9 IRRI A55, 10 GRAZ LRRL, 10 LAST, 10 SENM,
--999 -999
+-999 -999 X
 ');
 INSERT INTO cfarm.daycent_30cm_spinup_schedule_files (mlra, hydric, irrig, grazetill, id_history, filename, sch) VALUES ( '091B','N','N','graze','9397634','mlra_091B_N_N_graze_9397634','1951          Starting year
 1978          Last year
@@ -48503,7 +48355,7 @@ weather.wth
      3 FRST, 4 GRAZ LRRL, 5 GRAZ LRRH, 5 IRRI A55, 6 GRAZ LRRH, 
      6 IRRI A55, 7 GRAZ LRRM, 7 IRRI A55, 8 GRAZ LRRL, 8 IRRI A55, 
      9 GRAZ LRRL, 9 IRRI A55, 10 GRAZ LRRL, 10 LAST, 10 SENM,
--999 -999 
+-999 -999 X
      
 2            Block #   NEWGRAZE_LRR_K_1951-1974_SYSTEM_1_GRAZING_13018
 1978         Last year
@@ -48517,7 +48369,7 @@ weather.wth
      3 FRST, 4 GRAZ LRRL, 5 GRAZ LRRH, 5 IRRI A55, 6 GRAZ LRRH, 
      6 IRRI A55, 7 GRAZ LRRM, 7 IRRI A55, 8 GRAZ LRRL, 8 IRRI A55, 
      9 GRAZ LRRL, 9 IRRI A55, 10 GRAZ LRRL, 10 LAST, 10 SENM,
--999 -999
+-999 -999 X
 ');
 INSERT INTO cfarm.daycent_30cm_spinup_schedule_files (mlra, hydric, irrig, grazetill, id_history, filename, sch) VALUES ( '091','H','I','till','9431299','mlra_091_H_I_till_9431299','1951          Starting year
 1978          Last year
@@ -48533,8 +48385,7 @@ site.100      Site file name
 0             Climate scalar option
 1             Initial system
 G3            Initial crop
-            Initial tree
-
+            Initial  tree
 1974 1 DRAN 0.95
 
 Year Month Option
@@ -48629,8 +48480,7 @@ site.100      Site file name
 0             Climate scalar option
 1             Initial system
 G3            Initial crop
-            Initial tree
-
+            Initial  tree
 1974 1 DRAN 0.95
 
 Year Month Option
@@ -48758,7 +48608,7 @@ weather.wth
      3 FRST, 4 GRAZ LRRL, 5 GRAZ LRRH, 5 IRRI A55, 6 GRAZ LRRH, 
      6 IRRI A55, 7 GRAZ LRRM, 7 IRRI A55, 8 GRAZ LRRL, 8 IRRI A55, 
      9 GRAZ LRRL, 9 IRRI A55, 10 GRAZ LRRL, 10 LAST, 10 SENM,
--999 -999 
+-999 -999 X
      
 2            Block #   NEWGRAZE_LRR_K_1951-1974_SYSTEM_1_GRAZING_13018
 1978         Last year
@@ -48772,7 +48622,7 @@ weather.wth
      3 FRST, 4 GRAZ LRRL, 5 GRAZ LRRH, 5 IRRI A55, 6 GRAZ LRRH, 
      6 IRRI A55, 7 GRAZ LRRM, 7 IRRI A55, 8 GRAZ LRRL, 8 IRRI A55, 
      9 GRAZ LRRL, 9 IRRI A55, 10 GRAZ LRRL, 10 LAST, 10 SENM,
--999 -999
+-999 -999 X
 ');
 INSERT INTO cfarm.daycent_30cm_spinup_schedule_files (mlra, hydric, irrig, grazetill, id_history, filename, sch) VALUES ( '091','N','N','till','9403704','mlra_091_N_N_till_9403704','1951          Starting year
 1978          Last year
@@ -48986,8 +48836,7 @@ site.100      Site file name
 0             Climate scalar option
 1             Initial system
 G3            Initial crop
-            Initial tree
-
+            Initial  tree
 1974 1 DRAN 0.95
 
 Year Month Option
@@ -49423,8 +49272,7 @@ site.100      Site file name
 0             Climate scalar option
 1             Initial system
 G3            Initial crop
-            Initial tree
-
+            Initial  tree
 1974 1 DRAN 0.95
 
 Year Month Option
@@ -49766,7 +49614,6 @@ site.100      Site file name
 1             Initial system
 G3            Initial crop
             Initial tree
-
 1974 1 DRAN 0.95
 
 Year Month Option
@@ -49879,8 +49726,7 @@ site.100      Site file name
 0             Climate scalar option
 1             Initial system
 G3            Initial crop
-            Initial tree
-
+            Initial  tree
 1974 1 DRAN 0.95
 
 Year Month Option
@@ -50202,7 +50048,6 @@ site.100      Site file name
 1             Initial system
 G3            Initial crop
             Initial tree
-
 1974 1 DRAN 0.95
 
 Year Month Option
@@ -50335,8 +50180,7 @@ site.100      Site file name
 0             Climate scalar option
 1             Initial system
 G3            Initial crop
-            Initial tree
-
+            Initial  tree
 1974 1 DRAN 0.95
 
 Year Month Option
@@ -50874,7 +50718,6 @@ site.100      Site file name
 1             Initial system
 G3            Initial crop
               Initial tree
-
 1974 1 DRAN 0.95
 
 Year Month Option
@@ -50973,8 +50816,7 @@ site.100      Site file name
 0             Climate scalar option
 1             Initial system
 G3            Initial crop
-            Initial tree
-
+            Initial  tree
 1974 1 DRAN 0.95
 
 Year Month Option
@@ -51285,8 +51127,7 @@ site.100      Site file name
 0             Climate scalar option
 1             Initial system
 G3            Initial crop
-            Initial tree
-
+            Initial  tree
 1974 1 DRAN 0.95
 
 Year Month Option
@@ -51381,8 +51222,7 @@ site.100      Site file name
 0             Climate scalar option
 1             Initial system
 G3            Initial crop
-            Initial tree
-
+            Initial  tree
 1974 1 DRAN 0.95
 
 Year Month Option
@@ -51646,7 +51486,6 @@ site.100      Site file name
 1             Initial system
 G3            Initial crop
             Initial tree
-
 1974 1 DRAN 0.95
 
 Year Month Option
@@ -51724,8 +51563,7 @@ site.100      Site file name
 0             Climate scalar option
 1             Initial system
 G3            Initial crop
-            Initial tree
-
+            Initial  tree
 1974 1 DRAN 0.95
 
 Year Month Option
@@ -51985,7 +51823,6 @@ site.100      Site file name
 1             Initial system
 G3            Initial crop
             Initial tree
-
 1974 1 DRAN 0.95
 
 Year Month Option
@@ -52063,8 +51900,7 @@ site.100      Site file name
 0             Climate scalar option
 1             Initial system
 G3            Initial crop
-            Initial tree
-
+            Initial  tree
 1974 1 DRAN 0.95
 
 Year Month Option
@@ -52294,7 +52130,6 @@ site.100      Site file name
 1             Initial system
 G3            Initial crop
             Initial tree
-
 1974 1 DRAN 0.95
 
 Year Month Option
@@ -52373,8 +52208,7 @@ site.100      Site file name
 0             Climate scalar option
 1             Initial system
 G3            Initial crop
-            Initial tree
-
+            Initial  tree
 1974 1 DRAN 0.95
 
 Year Month Option
@@ -52617,8 +52451,7 @@ site.100      Site file name
 0             Climate scalar option
 1             Initial system
 G3            Initial crop
-            Initial tree
-
+            Initial  tree
 1974 1 DRAN 0.95
 
 Year Month Option
@@ -52708,8 +52541,7 @@ site.100      Site file name
 0             Climate scalar option
 1             Initial system
 G3            Initial crop
-            Initial tree
-
+            Initial  tree
 1974 1 DRAN 0.95
 
 Year Month Option
@@ -52960,7 +52792,7 @@ weather.wth
      3 FRST, 4 GRAZ LRRL, 5 GRAZ LRRH, 5 IRRI A55, 6 GRAZ LRRH, 
      6 IRRI A55, 7 GRAZ LRRM, 7 IRRI A55, 8 GRAZ LRRL, 8 IRRI A55, 
      9 GRAZ LRRL, 9 IRRI A55, 10 GRAZ LRRL, 10 LAST, 10 SENM,
--999 -999 
+-999 -999 X
      
 2            Block #   NEWGRAZE_LRR_K_1951-1974_SYSTEM_1_GRAZING_13018
 1978         Last year
@@ -52974,7 +52806,7 @@ weather.wth
      3 FRST, 4 GRAZ LRRL, 5 GRAZ LRRH, 5 IRRI A55, 6 GRAZ LRRH, 
      6 IRRI A55, 7 GRAZ LRRM, 7 IRRI A55, 8 GRAZ LRRL, 8 IRRI A55, 
      9 GRAZ LRRL, 9 IRRI A55, 10 GRAZ LRRL, 10 LAST, 10 SENM,
--999 -999
+-999 -999 X
 ');
 INSERT INTO cfarm.daycent_30cm_spinup_schedule_files (mlra, hydric, irrig, grazetill, id_history, filename, sch) VALUES ( '100','H','N','graze','9436061','mlra_100_H_N_graze_9436061','1951          Starting year
 1978          Last year
@@ -53022,8 +52854,7 @@ site.100      Site file name
 0             Climate scalar option
 1             Initial system
 G3            Initial crop
-            Initial tree
-
+            Initial  tree
 1974 1 DRAN 0.95
 
 Year Month Option
@@ -53185,7 +53016,6 @@ site.100      Site file name
 1             Initial system
 G3            Initial crop
             Initial tree
-
 1951 1 DRAN 0.95
 
 Year Month Option
@@ -53267,8 +53097,7 @@ site.100      Site file name
 0             Climate scalar option
 1             Initial system
 G3            Initial crop
-            Initial tree
-
+            Initial  tree
 1974 1 DRAN 0.95
 
 Year Month Option
@@ -53540,7 +53369,6 @@ site.100      Site file name
 1             Initial system
 G3            Initial crop
             Initial tree
-
 1974 1 DRAN 0.95
 
 Year Month Option
@@ -53626,8 +53454,7 @@ site.100      Site file name
 0             Climate scalar option
 1             Initial system
 G3            Initial crop
-            Initial tree
-
+            Initial  tree
 1974 1 DRAN 0.95
 
 Year Month Option
@@ -53896,8 +53723,7 @@ site.100      Site file name
 0             Climate scalar option
 1             Initial system
 G3            Initial crop
-            Initial tree
-
+            Initial  tree
 1974 1 DRAN 0.95
 
 Year Month Option
@@ -53988,8 +53814,7 @@ site.100      Site file name
 0             Climate scalar option
 1             Initial system
 G3            Initial crop
-            Initial tree
-
+            Initial  tree
 1974 1 DRAN 0.95
 
 Year Month Option
@@ -54273,7 +54098,6 @@ site.100      Site file name
 1             Initial system
 G3            Initial crop
             Initial tree
-
 1974 1 DRAN 0.95
 
 Year Month Option
@@ -54358,8 +54182,7 @@ site.100      Site file name
 0             Climate scalar option
 1             Initial system
 G3            Initial crop
-            Initial tree
-
+            Initial  tree
 1974 1 DRAN 0.95
 
 Year Month Option
@@ -54637,7 +54460,6 @@ site.100      Site file name
 1             Initial system
 G3            Initial crop
             Initial tree
-
 1974 1 DRAN 0.95
 
 Year Month Option
@@ -54722,8 +54544,7 @@ site.100      Site file name
 0             Climate scalar option
 1             Initial system
 G3            Initial crop
-            Initial tree
-
+            Initial  tree
 1974 1 DRAN 0.95
 
 Year Month Option
@@ -55005,7 +54826,6 @@ site.100      Site file name
 1             Initial system
 G3            Initial crop
             Initial tree
-
 1974 1 DRAN 0.95
 
 Year Month Option
@@ -55103,8 +54923,7 @@ site.100      Site file name
 0             Climate scalar option
 1             Initial system
 G3            Initial crop
-            Initial tree
-
+            Initial  tree
 1974 1 DRAN 0.95
 
 Year Month Option
@@ -55394,8 +55213,7 @@ site.100      Site file name
 0             Climate scalar option
 1             Initial system
 G3            Initial crop
-            Initial tree
-
+            Initial  tree
 1974 1 DRAN 0.95
 
 Year Month Option
@@ -55486,8 +55304,7 @@ site.100      Site file name
 0             Climate scalar option
 1             Initial system
 G3            Initial crop
-            Initial tree
-
+            Initial  tree
 1974 1 DRAN 0.95
 
 Year Month Option
@@ -55762,8 +55579,7 @@ site.100      Site file name
 0             Climate scalar option
 1             Initial system
 G3            Initial crop
-            Initial tree
-
+            Initial  tree
 1974 1 DRAN 0.95
 
 Year Month Option
@@ -55854,8 +55670,7 @@ site.100      Site file name
 0             Climate scalar option
 1             Initial system
 G3            Initial crop
-            Initial tree
-
+            Initial  tree
 1974 1 DRAN 0.95
 
 Year Month Option
@@ -56076,7 +55891,7 @@ weather.wth
      5 PLTM, 5 OMAD (4.76,MLRA), 5 CULT G, 6 CULT B, 8 LAST, 8 HARV G,
 -999 -999 X
 ');
-INSERT INTO cfarm.daycent_30cm_spinup_schedule_files (mlra, hydric, irrig, grazetill, id_history, filename, sch) VALUES ( '107A','H','I','graze','9435993','mlra_107A_H_I_graze_9435993','v1951          Starting year
+INSERT INTO cfarm.daycent_30cm_spinup_schedule_files (mlra, hydric, irrig, grazetill, id_history, filename, sch) VALUES ( '107A','H','I','graze','9435993','mlra_107A_H_I_graze_9435993','1951          Starting year
 1978          Last year
 site.100      Site file name
 0             Labeling type
@@ -56299,7 +56114,6 @@ site.100      Site file name
 1             Initial system
 G3            Initial crop
             Initial tree
-
 1974 1 DRAN 0.95
 
 Year Month Option
@@ -56397,8 +56211,7 @@ site.100      Site file name
 0             Climate scalar option
 1             Initial system
 G3            Initial crop
-            Initial tree
-
+            Initial  tree
 1974 1 DRAN 0.95
 
 Year Month Option
@@ -56749,7 +56562,6 @@ site.100      Site file name
 1             Initial system
 G3            Initial crop
             Initial tree
-
 1974 1 DRAN 0.95
 
 Year Month Option
@@ -56847,8 +56659,7 @@ site.100      Site file name
 0             Climate scalar option
 1             Initial system
 G3            Initial crop
-            Initial tree
-
+            Initial  tree
 1974 1 DRAN 0.95
 
 Year Month Option
@@ -57145,8 +56956,7 @@ site.100      Site file name
 0             Climate scalar option
 1             Initial system
 G3            Initial crop
-            Initial tree
-
+            Initial  tree
 1974 1 DRAN 0.95
 
 Year Month Option
@@ -57237,8 +57047,7 @@ site.100      Site file name
 0             Climate scalar option
 1             Initial system
 G3            Initial crop
-            Initial tree
-
+            Initial  tree
 1974 1 DRAN 0.95
 
 Year Month Option
@@ -57526,7 +57335,6 @@ site.100      Site file name
 1             Initial system
 G3            Initial crop
             Initial tree
-
 1974 1 DRAN 0.95
 
 Year Month Option
@@ -57609,8 +57417,7 @@ site.100      Site file name
 0             Climate scalar option
 1             Initial system
 G3            Initial crop
-            Initial tree
-
+            Initial  tree
 1974 1 DRAN 0.95
 
 Year Month Option
@@ -57886,7 +57693,6 @@ site.100      Site file name
 1             Initial system
 G3            Initial crop
             Initial tree
-
 1974 1 DRAN 0.95
 
 Year Month Option
@@ -57971,8 +57777,7 @@ site.100      Site file name
 0             Climate scalar option
 1             Initial system
 G3            Initial crop
-            Initial tree
-
+            Initial  tree
 1974 1 DRAN 0.95
 
 Year Month Option
@@ -58254,7 +58059,6 @@ site.100      Site file name
 1             Initial system
 G3            Initial crop
             Initial tree
-
 1974 1 DRAN 0.95
 
 Year Month Option
@@ -58355,8 +58159,7 @@ site.100      Site file name
 0             Climate scalar option
 1             Initial system
 G3            Initial crop
-            Initial tree
-
+            Initial  tree
 1974 1 DRAN 0.95
 
 Year Month Option
@@ -58650,7 +58453,6 @@ site.100      Site file name
 1             Initial system
 G3            Initial crop
             Initial tree
-
 1974 1 DRAN 0.95
 
 Year Month Option
@@ -58743,8 +58545,7 @@ site.100      Site file name
 0             Climate scalar option
 1             Initial system
 G3            Initial crop
-            Initial tree
-
+            Initial  tree
 1974 1 DRAN 0.95
 
 Year Month Option
@@ -59030,7 +58831,6 @@ site.100      Site file name
 1             Initial system
 G3            Initial crop
             Initial tree
-
 1974 1 DRAN 0.95
 
 Year Month Option
@@ -59133,8 +58933,7 @@ site.100      Site file name
 0             Climate scalar option
 1             Initial system
 G3            Initial crop
-            Initial tree
-
+            Initial  tree
 1974 1 DRAN 0.95
 
 Year Month Option
@@ -59434,7 +59233,6 @@ site.100      Site file name
 1             Initial system
 G3            Initial crop
             Initial tree
-
 1974 1 DRAN 0.95
 
 Year Month Option
@@ -59530,8 +59328,7 @@ site.100      Site file name
 0             Climate scalar option
 1             Initial system
 G3            Initial crop
-            Initial tree
-
+            Initial  tree
 1974 1 DRAN 0.95
 
 Year Month Option
@@ -59824,7 +59621,6 @@ site.100      Site file name
 1             Initial system
 G3            Initial crop
             Initial tree
-
 1974 1 DRAN 0.95
 
 Year Month Option
@@ -59920,8 +59716,7 @@ site.100      Site file name
 0             Climate scalar option
 1             Initial system
 G3            Initial crop
-            Initial tree
-
+            Initial  tree
 1974 1 DRAN 0.95
 
 Year Month Option
@@ -63204,7 +62999,6 @@ site.100      Site file name
 1             Initial system
 G3            Initial crop
             Initial tree
-
 1951 1 DRAN 0.95
 
 Year Month Option
@@ -65586,7 +65380,6 @@ site.100      Site file name
 1             Initial system
 G3            Initial crop
             Initial tree
-
 1951 1 DRAN 0.95
 
 Year Month Option
@@ -65904,7 +65697,6 @@ site.100      Site file name
 1             Initial system
 G3            Initial crop
             Initial tree
-
 1951 1 DRAN 0.60
 1974 1 DRAN 0.95
 
@@ -66222,7 +66014,6 @@ site.100      Site file name
 1             Initial system
 G3            Initial crop
             Initial tree
-
 1951 1 DRAN 0.60
 1974 1 DRAN 0.95
 
@@ -66572,7 +66363,6 @@ site.100      Site file name
 1             Initial system
 G3            Initial crop
             Initial tree
-
 1972 1 DRAN 0.95
 
 Year Month Option
@@ -66661,8 +66451,7 @@ site.100      Site file name
 0             Climate scalar option
 1             Initial system
 G3            Initial crop
-            Initial tree
-
+            Initial  tree
 1972 1 DRAN 0.95
 
 Year Month Option
@@ -66904,7 +66693,6 @@ site.100      Site file name
 1             Initial system
 G3            Initial crop
             Initial tree
-
 1974 1 DRAN 0.95
 
 Year Month Option
@@ -66994,8 +66782,7 @@ site.100      Site file name
 0             Climate scalar option
 1             Initial system
 G3            Initial crop
-            Initial tree
-
+            Initial  tree
 1974 1 DRAN 0.95
 
 Year Month Option
@@ -67238,7 +67025,6 @@ site.100      Site file name
 1             Initial system
 G3            Initial crop
             Initial tree
-
 1974 1 DRAN 0.95
 
 Year Month Option
@@ -67321,8 +67107,7 @@ site.100      Site file name
 0             Climate scalar option
 1             Initial system
 G3            Initial crop
-            Initial tree
-
+            Initial  tree
 1974 1 DRAN 0.95
 
 Year Month Option
@@ -67558,7 +67343,6 @@ site.100      Site file name
 1             Initial system
 G3            Initial crop
             Initial tree
-
 1974 1 DRAN 0.95
 
 Year Month Option
@@ -67647,8 +67431,7 @@ site.100      Site file name
 0             Climate scalar option
 1             Initial system
 G3            Initial crop
-            Initial tree
-
+            Initial  tree
 1974 1 DRAN 0.95
 
 Year Month Option
@@ -67890,7 +67673,6 @@ site.100      Site file name
 1             Initial system
 G3            Initial crop
             Initial tree
-
 1974 1 DRAN 0.95
 
 Year Month Option
@@ -67969,8 +67751,7 @@ site.100      Site file name
 0             Climate scalar option
 1             Initial system
 G3            Initial crop
-            Initial tree
-
+            Initial  tree
 1974 1 DRAN 0.95
 
 Year Month Option
@@ -68202,7 +67983,6 @@ site.100      Site file name
 1             Initial system
 G3            Initial crop
             Initial tree
-
 1974 1 DRAN 0.95
 
 Year Month Option
@@ -68281,8 +68061,7 @@ site.100      Site file name
 0             Climate scalar option
 1             Initial system
 G3            Initial crop
-            Initial tree
-
+            Initial  tree
 1974 1 DRAN 0.95
 
 Year Month Option
@@ -68542,7 +68321,6 @@ site.100      Site file name
 1             Initial system
 G3            Initial crop
             Initial tree
-
 1974 1 DRAN 0.95
 
 Year Month Option
@@ -68621,8 +68399,7 @@ site.100      Site file name
 0             Climate scalar option
 1             Initial system
 G3            Initial crop
-            Initial tree
-
+            Initial  tree
 1974 1 DRAN 0.95
 
 Year Month Option
@@ -68854,7 +68631,6 @@ site.100      Site file name
 1             Initial system
 G3            Initial crop
             Initial tree
-
 1974 1 DRAN 0.95
 
 Year Month Option
@@ -68934,8 +68710,7 @@ site.100      Site file name
 0             Climate scalar option
 1             Initial system
 G3            Initial crop
-            Initial tree
-
+            Initial  tree
 1974 1 DRAN 0.95
 
 Year Month Option
@@ -69168,7 +68943,6 @@ site.100      Site file name
 1             Initial system
 G3            Initial crop
             Initial tree
-
 1960 1 DRAN 0.95
 
 Year Month Option
@@ -69248,8 +69022,7 @@ site.100      Site file name
 0             Climate scalar option
 1             Initial system
 G3            Initial crop
-            Initial tree
-
+            Initial  tree
 1960 1 DRAN 0.95
 
 Year Month Option
@@ -69529,7 +69302,6 @@ site.100      Site file name
 1             Initial system
 G3            Initial crop
             Initial tree
-
 1960 1 DRAN 0.95
 
 Year Month Option
@@ -69618,8 +69390,7 @@ site.100      Site file name
 0             Climate scalar option
 1             Initial system
 G3            Initial crop
-            Initial tree
-
+            Initial  tree
 1960 1 DRAN 0.95
 
 Year Month Option
@@ -69973,7 +69744,6 @@ site.100      Site file name
 1             Initial system
 G3            Initial crop
             Initial tree
-
 1960 1 DRAN 0.95
 
 Year Month Option
@@ -70085,8 +69855,7 @@ site.100      Site file name
 0             Climate scalar option
 1             Initial system
 G3            Initial crop
-            Initial tree
-
+            Initial  tree
 1960 1 DRAN 0.95
 
 Year Month Option
@@ -70396,7 +70165,6 @@ site.100      Site file name
 1             Initial system
 G3            Initial crop
             Initial tree
-
 1951 1 DRAN 0.60
 1974 1 DRAN 0.95
 
@@ -70479,8 +70247,7 @@ site.100      Site file name
 0             Climate scalar option
 1             Initial system
 G3            Initial crop
-            Initial tree
-
+            Initial  tree
 1960 1 DRAN 0.95
 
 Year Month Option
@@ -70758,7 +70525,6 @@ site.100      Site file name
 1             Initial system
 G3            Initial crop
             Initial tree
-
 1960 1 DRAN 0.95
 
 Year Month Option
@@ -70837,8 +70603,7 @@ site.100      Site file name
 0             Climate scalar option
 1             Initial system
 G3            Initial crop
-            Initial tree
-
+            Initial  tree
 1960 1 DRAN 0.95
 
 Year Month Option
@@ -71116,7 +70881,6 @@ site.100      Site file name
 1             Initial system
 G3            Initial crop
             Initial tree
-
 1960 1 DRAN 0.95
 
 Year Month Option
@@ -71205,8 +70969,7 @@ site.100      Site file name
 0             Climate scalar option
 1             Initial system
 G3            Initial crop
-            Initial tree
-
+            Initial  tree
 1960 1 DRAN 0.95
 
 Year Month Option
@@ -71494,7 +71257,6 @@ site.100      Site file name
 1             Initial system
 G3            Initial crop
             Initial tree
-
 1951 1 DRAN 0.60
 1974 1 DRAN 0.95
 
@@ -71577,8 +71339,7 @@ site.100      Site file name
 0             Climate scalar option
 1             Initial system
 G3            Initial crop
-            Initial tree
-
+            Initial  tree
 1960 1 DRAN 0.95
 
 Year Month Option
@@ -71858,7 +71619,6 @@ site.100      Site file name
 1             Initial system
 G3            Initial crop
             Initial tree
-
 1963 1 DRAN 0.95
 
 Year Month Option
@@ -71971,8 +71731,7 @@ site.100      Site file name
 0             Climate scalar option
 1             Initial system
 G3            Initial crop
-            Initial tree
-
+            Initial  tree
 1963 1 DRAN 0.95
 
 Year Month Option
@@ -72285,7 +72044,6 @@ site.100      Site file name
 1             Initial system
 G3            Initial crop
             Initial tree
-
 1951 1 DRAN 0.60
 1974 1 DRAN 0.95
 
@@ -72369,8 +72127,7 @@ site.100      Site file name
 0             Climate scalar option
 1             Initial system
 G3            Initial crop
-            Initial tree
-
+            Initial  tree
 1963 1 DRAN 0.95
 
 Year Month Option
@@ -72607,7 +72364,6 @@ site.100      Site file name
 1             Initial system
 G3            Initial crop
             Initial tree
-
 1951 1 DRAN 0.60
 1974 1 DRAN 0.95
 
@@ -72691,8 +72447,7 @@ site.100      Site file name
 0             Climate scalar option
 1             Initial system
 G3            Initial crop
-            Initial tree
-
+            Initial  tree
 1963 1 DRAN 0.95
 
 Year Month Option
@@ -72926,7 +72681,6 @@ site.100      Site file name
 1             Initial system
 G3            Initial crop
             Initial tree
-
 1963 1 DRAN 0.95
 
 Year Month Option
@@ -73254,7 +73008,6 @@ site.100      Site file name
 1             Initial system
 G3            Initial crop
             Initial tree
-
 1974 1 DRAN 0.95
 
 Year Month Option
@@ -73343,8 +73096,7 @@ site.100      Site file name
 0             Climate scalar option
 1             Initial system
 G3            Initial crop
-            Initial tree
-
+            Initial  tree
 1974 1 DRAN 0.95
 
 Year Month Option
@@ -73602,7 +73354,6 @@ site.100      Site file name
 1             Initial system
 G3            Initial crop
             Initial tree
-
 1974 1 DRAN 0.95
 
 Year Month Option
@@ -73691,8 +73442,7 @@ site.100      Site file name
 0             Climate scalar option
 1             Initial system
 G3            Initial crop
-            Initial tree
-
+            Initial  tree
 1974 1 DRAN 0.95
 
 Year Month Option
@@ -73938,7 +73688,6 @@ site.100      Site file name
 1             Initial system
 G3            Initial crop
             Initial tree
-
 1974 1 DRAN 0.95
 
 Year Month Option
@@ -74027,8 +73776,7 @@ site.100      Site file name
 0             Climate scalar option
 1             Initial system
 G3            Initial crop
-            Initial tree
-
+            Initial  tree
 1974 1 DRAN 0.95
 
 Year Month Option
@@ -74298,7 +74046,6 @@ site.100      Site file name
 1             Initial system
 G3            Initial crop
             Initial tree
-
 1974 1 DRAN 0.95
 
 Year Month Option
@@ -74377,8 +74124,7 @@ site.100      Site file name
 0             Climate scalar option
 1             Initial system
 G3            Initial crop
-            Initial tree
-
+            Initial  tree
 1974 1 DRAN 0.95
 
 Year Month Option
@@ -74610,7 +74356,6 @@ site.100      Site file name
 1             Initial system
 G3            Initial crop
             Initial tree
-
 1974 1 DRAN 0.95
 
 Year Month Option
@@ -74699,8 +74444,7 @@ site.100      Site file name
 0             Climate scalar option
 1             Initial system
 G3            Initial crop
-            Initial tree
-
+            Initial  tree
 1974 1 DRAN 0.95
 
 Year Month Option
@@ -74942,7 +74686,6 @@ site.100      Site file name
 1             Initial system
 G3            Initial crop
             Initial tree
-
 1974 1 DRAN 0.95
 
 Year Month Option
@@ -75031,8 +74774,7 @@ site.100      Site file name
 0             Climate scalar option
 1             Initial system
 G3            Initial crop
-            Initial tree
-
+            Initial  tree
 1974 1 DRAN 0.95
 
 Year Month Option
@@ -75289,7 +75031,6 @@ site.100      Site file name
 1             Initial system
 G3            Initial crop
             Initial tree
-
 1974 1 DRAN 0.95
 
 Year Month Option
@@ -75379,8 +75120,7 @@ site.100      Site file name
 0             Climate scalar option
 1             Initial system
 G3            Initial crop
-            Initial tree
-
+            Initial  tree
 1974 1 DRAN 0.95
 
 Year Month Option
@@ -75604,7 +75344,6 @@ site.100      Site file name
 1             Initial system
 G3            Initial crop
             Initial tree
-
 1974 1 DRAN 0.95
 
 Year Month Option
@@ -75703,8 +75442,7 @@ site.100      Site file name
 0             Climate scalar option
 1             Initial system
 G3            Initial crop
-            Initial tree
-
+            Initial  tree
 1974 1 DRAN 0.95
 
 Year Month Option
@@ -75938,7 +75676,6 @@ site.100      Site file name
 1             Initial system
 G3            Initial crop
             Initial tree
-
 1974 1 DRAN 0.95
 
 Year Month Option
@@ -76034,8 +75771,7 @@ site.100      Site file name
 0             Climate scalar option
 1             Initial system
 G3            Initial crop
-            Initial tree
-
+            Initial  tree
 1974 1 DRAN 0.95
 
 Year Month Option
@@ -76326,7 +76062,6 @@ site.100      Site file name
 1             Initial system
 G3            Initial crop
             Initial tree
-
 1974 1 DRAN 0.95
 
 Year Month Option
@@ -76422,8 +76157,7 @@ site.100      Site file name
 0             Climate scalar option
 1             Initial system
 G3            Initial crop
-            Initial tree
-
+            Initial  tree
 1974 1 DRAN 0.95
 
 Year Month Option
@@ -76703,7 +76437,6 @@ site.100      Site file name
 1             Initial system
 G3            Initial crop
             Initial tree
-
 1974 1 DRAN 0.95
 
 Year Month Option
@@ -76783,8 +76516,7 @@ site.100      Site file name
 0             Climate scalar option
 1             Initial system
 G3            Initial crop
-            Initial tree
-
+            Initial  tree
 1974 1 DRAN 0.95
 
 Year Month Option
@@ -77052,7 +76784,6 @@ site.100      Site file name
 1             Initial system
 G3            Initial crop
             Initial tree
-
 1974 1 DRAN 0.95
 
 Year Month Option
@@ -77135,8 +76866,7 @@ site.100      Site file name
 0             Climate scalar option
 1             Initial system
 G3            Initial crop
-            Initial tree
-
+            Initial  tree
 1974 1 DRAN 0.95
 
 Year Month Option
@@ -77378,7 +77108,6 @@ site.100      Site file name
 1             Initial system
 G3            Initial crop
             Initial tree
-
 1974 1 DRAN 0.95
 
 Year Month Option
@@ -77706,7 +77435,6 @@ site.100      Site file name
 1             Initial system
 G3            Initial crop
             Initial tree
-
 1974 1 DRAN 0.95
 
 Year Month Option
