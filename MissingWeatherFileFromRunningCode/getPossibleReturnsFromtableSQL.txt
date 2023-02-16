@@ -1,0 +1,1 @@
+select gridy,gridx,CONCAT('prism_', Cast(gridy as  VARCHAR(10)),'/',Cast(gridy as text),'_',Cast(gridx as text)) from prism_centroids_google_mercator
