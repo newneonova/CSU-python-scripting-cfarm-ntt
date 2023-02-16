@@ -1,5 +1,5 @@
-1951          Starting year
-1978          Last year
+1862          Starting year
+1950          Last year
 site.100      Site file name
 0             Labeling type
 -1            Labeling year
@@ -15,17 +15,27 @@ G3            Initial crop
             Initial tree
 
 Year Month Option
-1            Block #   rangeland 1950-74_2930
-1978         Last year
+1            Block #   OOO_678
+1939         Last year
 1            Repeats # years
-1951         Output starting year
-1           Output month
+1862         Output starting year
+12          Output month
 1.000        Output interval
 F            Weather choice
 weather.wth
-  1  1 GRAZ LRRH, 2 GRAZ LRRH,
-  1  3 CROP G5
-     3 FRST, 3 GRAZ LRRH, 4 GRAZ LRRH, 5 GRAZ LRRH, 6 GRAZ LRRH,
-     7 GRAZ LRRH, 8 GRAZ LRRH, 9 GRAZ LRRH, 10 GRAZ LRRH, 10 LAST,
-    10 SENM, 11 GRAZ LRRH, 12 GRAZ LRRH,
+  1  3 CULT K,
+  1  4 CROP W0
+     4 PLTM, 4 CULT C, 4 IRRI A55,  5 IRRI A55, 6 IRRI A55, 
+     7 IRRI A55, 8 IRRI A55, 8 LAST, 8 HARV G90S,
+-999 -999 X
+2            Block #   OOO_11512
+1950         Last year
+1            Repeats # years
+1940         Output starting year
+12          Output month
+1.000        Output interval
+F            Weather choice
+weather.wth
+  1  3 IRRI A55, 4 IRRI A55, 5 IRRI A55, 6 IRRI A55,6 LAST, 6 HARV G50S,   
+     7 CULT E,   8 CULT J,   9 CULT F, 10 CROP W2,  10 PLTM, 10 IRRI A55,
 -999 -999 X

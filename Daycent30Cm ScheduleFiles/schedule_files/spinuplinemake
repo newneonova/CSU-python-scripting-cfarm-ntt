@@ -47658,7 +47658,7 @@ site.100      Site file name
 1             Initial system
 G3            Initial crop
             Initial tree
-1974 1 DRAIN 0.95
+1974 1 DRAN 0.95
 
 Year Month Option
 1            Block #   NEWHAY_LRR_K_1995-Present_ROTATION_1_CORN_(D)-OAT__13144
@@ -50733,8 +50733,8 @@ weather.wth
   1  5 CROP C4
      5 IRRI A55, 5 PLTM, 5 IRRI A55, 5 FERT (0.5N), 5 IRRI A55, 5 CULT C,
  6 IRRI A55, 6 IRRI A55, 6 FERT (3.27N), 
-     6 CULT B, 7 IRRI A55, 8 IRRI A55, 9 IRRI A55, 6 IRRI A55, 7 IRRI A55, 
-     8 IRRI A55, 9 LAST, 9 IRRI A55, 9 HARV G,
+     6 CULT B, 7 IRRI A55, 8 IRRI A55, 9 IRRI A55, 
+	 9 LAST, 9 IRRI A55, 9 HARV G,
   2  5 CROP SYBN1
      5 IRRI A55, 5 PLTM, 5 IRRI A55, 5 OMAD (4.76,MLRA), 5 CULT G,
  6 IRRI A55, 6 CULT B, 
@@ -62590,8 +62590,7 @@ site.100      Site file name
 0             Climate scalar option
 1             Initial system
 G3            Initial crop
-            Initial tree
-            
+            Initial  tree
 1951 1 DRAN 0.95
 
 Year Month Option
