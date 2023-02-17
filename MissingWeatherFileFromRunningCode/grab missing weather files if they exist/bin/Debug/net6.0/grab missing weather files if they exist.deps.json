@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "grab missing weather files if they exist/1.0.0": {
+        "runtime": {
+          "grab missing weather files if they exist.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "grab missing weather files if they exist/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
