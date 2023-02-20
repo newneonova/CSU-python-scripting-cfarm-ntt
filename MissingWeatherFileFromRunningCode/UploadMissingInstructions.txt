@@ -1,0 +1,22 @@
+OK so 
+
+Try 1.  tar the directory.  upload using window ssh, untar in the correct location
+DONT DO, super slow, awful
+
+
+
+try 2, upload the tar to the cloud bucket.  then download from the bucket
+
+
+got to mount the disk, see 
+
+lsblk
+mkdir ./here
+sudo mount -o discard,defaults /dev/sdb ./here
+
+
+navigate to the rood directory where the prism2019 directory is
+do
+ gcloud storage cp gs://templargefilestore/prism2019.tar ./
+ tar -xf prism2019.tar 
+ sudo chmod -R 777 prism2019

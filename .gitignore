@@ -396,7 +396,7 @@ FodyWeavers.xsd
 
 # JetBrains Rider
 *.sln.iml
-**/prism2019_missing
+**/prism2019
 # Windows image file caches
 Thumbs.db
 ehthumbs.db
@@ -453,3 +453,4 @@ Temporary Items
 (2018)MissingWeatherFileFromRunningCode/CompareSiteFileArchiveWithKnownFiles/.vs/CompareSiteFileArchiveWithKnownFiles/v17/.futdcache.v2
 (2018)MissingWeatherFileFromRunningCode/CompareSiteFileArchiveWithKnownFiles/.vs/CompareSiteFileArchiveWithKnownFiles/FileContentIndex/e6c92edb-80fa-4aa4-88c6-4fbe0bc54a27.vsidx
 (2018)MissingWeatherFileFromRunningCode/CompareSiteFileArchiveWithKnownFiles/.vs/CompareSiteFileArchiveWithKnownFiles/FileContentIndex/72e40884-c70b-42a6-84c9-52ba30cadcb4.vsidx
+MissingWeatherFileFromRunningCode/grab missing weather files if they exist/prism2019.tar

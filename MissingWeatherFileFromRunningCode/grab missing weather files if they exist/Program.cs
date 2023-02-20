@@ -11,9 +11,10 @@ Parallel.ForEach(MissingPairs, pair =>
 {
     var split = pair.Split(',');
     var LocalFileName = "prism_" + split[0] + "\\" + split[0] + "_" + split[1] + ".wth_1975_2044.wth.bz2";
+    var destFileName =  "prism_" + split[0] + "\\" + split[0] + "_" + split[1] + ".wth_1975_2044.wth_updated2019.wth.bz2";
     var origin = Path.Combine(ExistingWeatherFilesRootDirectory, LocalFileName);
     var destinationDir = Path.Combine(localWeatherFileDumpDirectory,  "prism_" + split[0]);
-        var destination = Path.Combine(localWeatherFileDumpDirectory,  LocalFileName);
+        var destination = Path.Combine(localWeatherFileDumpDirectory,  destFileName);
  
     if (File.Exists(origin))
     {
