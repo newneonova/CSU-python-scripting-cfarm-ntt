@@ -8,4 +8,4 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = grab_missing_weather_files_if_they_exist
-build_property.ProjectDir = C:\Users\mclay\Documents\Github\CSU-python-scripting-cfarm-ntt\MissingWeatherFileFromRunningCode\grab missing weather files if they exist\
+build_property.ProjectDir = C:\Users\RSF\Documents\GitHub\CSU-python-scripting-cfarm-ntt\MissingWeatherFileFromRunningCode\grab missing weather files if they exist\

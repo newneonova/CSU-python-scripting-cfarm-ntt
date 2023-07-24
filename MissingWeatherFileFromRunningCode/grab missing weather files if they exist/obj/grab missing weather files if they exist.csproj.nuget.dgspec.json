@@ -1,23 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\mclay\\Documents\\Github\\CSU-python-scripting-cfarm-ntt\\MissingWeatherFileFromRunningCode\\grab missing weather files if they exist\\grab missing weather files if they exist.csproj": {}
+    "C:\\Users\\RSF\\Documents\\GitHub\\CSU-python-scripting-cfarm-ntt\\MissingWeatherFileFromRunningCode\\grab missing weather files if they exist\\grab missing weather files if they exist.csproj": {}
   },
   "projects": {
-    "C:\\Users\\mclay\\Documents\\Github\\CSU-python-scripting-cfarm-ntt\\MissingWeatherFileFromRunningCode\\grab missing weather files if they exist\\grab missing weather files if they exist.csproj": {
+    "C:\\Users\\RSF\\Documents\\GitHub\\CSU-python-scripting-cfarm-ntt\\MissingWeatherFileFromRunningCode\\grab missing weather files if they exist\\grab missing weather files if they exist.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mclay\\Documents\\Github\\CSU-python-scripting-cfarm-ntt\\MissingWeatherFileFromRunningCode\\grab missing weather files if they exist\\grab missing weather files if they exist.csproj",
+        "projectUniqueName": "C:\\Users\\RSF\\Documents\\GitHub\\CSU-python-scripting-cfarm-ntt\\MissingWeatherFileFromRunningCode\\grab missing weather files if they exist\\grab missing weather files if they exist.csproj",
         "projectName": "grab missing weather files if they exist",
-        "projectPath": "C:\\Users\\mclay\\Documents\\Github\\CSU-python-scripting-cfarm-ntt\\MissingWeatherFileFromRunningCode\\grab missing weather files if they exist\\grab missing weather files if they exist.csproj",
-        "packagesPath": "C:\\Users\\mclay\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mclay\\Documents\\Github\\CSU-python-scripting-cfarm-ntt\\MissingWeatherFileFromRunningCode\\grab missing weather files if they exist\\obj\\",
+        "projectPath": "C:\\Users\\RSF\\Documents\\GitHub\\CSU-python-scripting-cfarm-ntt\\MissingWeatherFileFromRunningCode\\grab missing weather files if they exist\\grab missing weather files if they exist.csproj",
+        "packagesPath": "C:\\Users\\RSF\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\RSF\\Documents\\GitHub\\CSU-python-scripting-cfarm-ntt\\MissingWeatherFileFromRunningCode\\grab missing weather files if they exist\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\mclay\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\RSF\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -25,6 +27,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -58,7 +61,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     }
