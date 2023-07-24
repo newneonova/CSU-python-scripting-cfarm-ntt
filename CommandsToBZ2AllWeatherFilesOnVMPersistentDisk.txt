@@ -1,0 +1,6 @@
+sudo mkdir -p /mnt/disks/export
+sudo mount -o discard,defaults /dev/sdb /mnt/disks/export
+cd /mnt/disks/export/DaycentFiles/newEqRuns/prism2019
+find . -type f -name "*.wth" | xargs -n1 -P16 bzip2
+
+
