@@ -3,6 +3,7 @@ $prismRoot = "D:\LargeFileRepos\Daycent30Cm\DaycentService\DaycentServiceFiles\B
 
 function GetFiles($path = $pwd, [string[]]$exclude)
 {
+$count=0
     foreach ($item in Get-ChildItem $path)
     {
         if ($exclude | Where {$item -like $_}) { continue }
@@ -15,7 +16,12 @@ function GetFiles($path = $pwd, [string[]]$exclude)
         }
         else{
         $item.BaseName.Split(".wth")[0].Split("_") -join ','
-       
+        $count++
+        if($count -eq 100){
+         write-host  $item.BaseName
+         $count=0
+        }
+      
 
         }
     }

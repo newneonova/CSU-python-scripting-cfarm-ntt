@@ -455,3 +455,5 @@ Temporary Items
 (2018)MissingWeatherFileFromRunningCode/CompareSiteFileArchiveWithKnownFiles/.vs/CompareSiteFileArchiveWithKnownFiles/FileContentIndex/72e40884-c70b-42a6-84c9-52ba30cadcb4.vsidx
 MissingWeatherFileFromRunningCode/grab missing weather files if they exist/prism2019.tar
 *.tar
+get list of crop codes from cometfarm/ScheduleFiles/future_schedule.txt
+get list of crop codes from cometfarm/ScheduleFiles/current_schedule.txt
